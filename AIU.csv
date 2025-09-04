@@ -1,341 +1,341 @@
-Nom;Prenom;Nee;Sexe;annee_naissance;Ville_naissance;ecole;Pays_naissance;Nationalite;Sejour_Paris;ecole_maitre;Brevet_capacite;Brevet_elementaire;Brevet_superieur;Brevet_Hebreu;Traitement_initial;Traitement_final;Nombre_de_postes;RégionNaissance
-TOUSSIE;Mardoche;;M;1882;Alep;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;1400;4900;7;Syrie
-SOMECKH;Sal;;M;1858;Bagdad;Oui;Empire Ottoman;Ottomane;;ENIO rue des Rosiers ;OUI;;;;1200;6000;8;Irak
-SELAME;Joseph;;M;1874;Caffa;Oui;Empire Ottoman;Turque;;ENIO rue d'Auteuil;;;OUI;OUI;1400;5400;9;Palestine
-ARANIAS;Michel;;M;1873;Brousse;Oui;Empire Ottoman;Turque;;ENIO rue d'Auteuil;;;OUI;OUI;1400;14000;9;Turquie
-ABBOU;Maclouf;;M;1881;An Temouchen;;Algrie;Français;;ENIO rue d'Auteuil;;;OUI;OUI;1400;5400;3;Algérie
-ELNEKAVE;Rbecca;;F;1906;Caffa;Oui;Empire Ottoman;Palestinienne;3;ENIO Jeunes Filles Versailles Institut Bischoffsheim;;;;;3600;;1;Palestine
-DALEM;Marguerite;;F;;Constantinople;;Empire Ottoman;Ottomane;;;;;OUI;;1400;1900;3;Turquie
-ABBO;Judith;;F;1912;Tibriade;Oui;Empire Ottoman;Français;;ENIO Jeunes Filles Versailles ;;OUI;;;9000;;2;Palestine
-LOUBATON;Juda;;M;1882;Caffa;Oui;Empire Ottoman;Français;;ENIO rue d'Auteuil;;OUI;;;1300;14000;9;Palestine
-ASTRUC;Ezra;;M;;Sofia;;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;OUI;;;1200;3000;8;Bulgarie
-ASSA;Sol;Cohen;F;1899;Constantinople;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;12000;4;Turquie
-NINIO;Lon;;M;1912;Alexandrie;Oui;Egypte;Egyptienne;4;ENIO rue d'Auteuil;;;OUI;;9000;10000;3;Egypte
-TAGGER;Salvador;;M;1886;Jrusalem;Oui;Empire Ottoman;Autrichienne;4;ENIO rue d'Auteuil;;;OUI;;1400;1800;2;Palestine
-ALGUADISCH;Ham;;M;1910;Andrinople;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil ;;OUI;;;9000;10000;2;Turquie
-LEZRAH;Dina;SEBBON;F;1890;Oran;;Algrie;Français;2;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;1;Algérie
-FELDMANN;Marie;;F;1907;Safed;Oui;Empire Ottoman;Palestinienne;4;ENIO Jeunes Filles Versailles Institut Bischoffsheim;;;OUI;;3600;9000;2;Palestine
-ELMALEH;Alice;;F;1905;Beyrouth;Oui;Empire Ottoman;Français;;;;;OUI;;3600;10000;1;Liban
-GARGUIR;Marie;;F;1891;Magnsie;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;4900;9;Turquie
-SAYEGH;Olga;;F;1911;Damas;Oui;Empire Ottoman;Français;;ENIO Jeunes Filles Versailles;;OUI;;;9000;;4;Syrie
-SIMHA;Mose;;M;1909;Larisse;Oui;Grce;Hollandais;4;ENIO rue d'Auteuil;;;OUI;;9000;11000;1;Grèce
-MISRAHI;Ham;;M;1881;Damas;Oui;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;;OUI;;1400;1700;2;Syrie
-DANAN;Mimoun;;M;1899;Fez;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;;OUI;;1600;;1;Maroc
-MESSOULAM;Fanny;;F;1914;Andrinople;Oui;Empire Ottoman;Ottomane;3;;;OUI;;;9000;;2;Turquie
-MENACHTER;Raphal;;M;1891;Caffa;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;OUI;;;1500;;1;Palestine
-COHEN;Mose;;M;1865;Choumla;Oui;Grande Bulgarie;Ottomane;;ENIO rue des Rosiers;OUI;;;;1200;2700;5;Bulgarie
-BEHMOIRAS;Lon;;M;1910;Andrinople;Oui;Empire Ottoman;Français;3;ENIO rue d'Auteuil;;OUI;;OUI;9000;11000;3;Turquie
-SABAN;Fanny;;F;1888;Constantinople;Oui;Empire Ottoman;Turque;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;2;Turquie
-MOUSSAFIR;Jacques;;M;1897;Rhodes;Oui;Empire Ottoman;Italien;4;ENIO rue d'Auteuil;;;OUI;;1600;3600;1;Grèce
-ARDATTO;Barzila;;M;1907;Kirkliss;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;3600;;1;Turquie
-BEHMOIRAS;Sara;;F;1885;Andrinople;Oui;Empire Ottoman;Autrichienne;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;5400;4;Turquie
-CORIAT;Salomon;;M;1870;Saint Lorent;;Français;Français;;;;;;;2400;;1;France
-DANON;Joseph;;M;1864;Smyrne;Oui;Empire Ottoman;Ottomane;;ENIO rue des Rosiers;OUI;;;;1400;6600;6;Turquie
-VALADJI;Juda;;M;1873;Tatar-Bazardjik;Oui;Grande Bulgarie;;;;;;OUI;OUI;1400;2300;4;Bulgarie
-VALADJI;Esther;Seidenberg;F;1881;Adin;Oui;Empire Ottoman;;;;;OUI;;;1300;1400;4;Turquie
-FEINSTEIN;Fanny;Judetz;F;1906;Caffa;Oui;Empire Ottoman;Palestinienne;4;ENIO Jeunes Filles Versailles Institut Bischoffsheim;;OUI;;;9000;10000;2;Palestine
-SEMACH;Oro;Guron;F;1874;Tatar-Bazardjik;Oui;Empire Ottoman;;3;Pension de Mme Isaac  Auteuil;;;OUI;;1400;10000;7;Bulgarie
-HASSAN;Mose;;M;1904;Sfax;Oui;Tunisie;Français;3;ENIO rue d'Auteuil;;OUI;;;3400;;1;Tunisie
-IEROUSALMI;Ham;;M;1874;Constantinople;Oui;Empire Ottoman;;;ENIO rue d'Auteuil;;;OUI;OUI;1400;1600;5;Turquie
-JACOBY;Jean;;M;1897;Jassy;;Roumanie;Roumaine;4;ENIO rue d'Auteuil;;;OUI;;1600;;1;Roumanie
-KRAYEM;Olga;;F;1917;Damas;Oui;Empire Ottoman;Ottomane;;;;OUI;;;8200;;2;Syrie
-BENSIMON;Rosita;Lvy;F;1905;Tripoli;Oui;Lybie;Français;4;Institut Bischoffsheim;;OUI;;;3600;10000;3;Liban
-MAISSI;Elie;;M;1911;Jrusalem;Oui;Empire Ottoman;Palestinienne;4;ENIO rue d'Auteuil;;;OUI;;9000;;1;Palestine
-OYAYON;Lily;Sasson;F;1914;Beyrouth;Oui;Empire Ottoman;Anglaise;3;ENIO Jeunes Filles Versailles ;;OUI;;;9000;;1;Liban
-PAPAROS;Ham;;M;1896;Preveza;Oui;Grce;Grecque;;ENIO rue d'Auteuil;;OUI;;;1500;;1;Grèce
-RODRIGUEZ;Jacques;;M;1912;Andrinople;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;9000;10000;3;Turquie
-STEINFED;Anna;Mamane;F;1910;Safed;Oui;Empire Ottoman;Palestinienne;3;ENIO Jeunes Filles Versailles;;OUI;;;9000;10000;7;Palestine
-CONFINO;Claire;Toldo;F;1878;Constantinople;Oui;Empire Ottoman;Ottomane;;Institut Bischoffsheim;;;OUI;;1400;2100;3;Turquie
-UZIEL;Ham;;M;1898;Salonique;Oui;Grce;Grecque;2;ENIO rue d'Auteuil ;;;OUI;;;;0;Grèce
-VALENCI;Marie;Cohen;F;1915;Smyrne;Oui;Empire Ottoman;Turque;4;ENIO Jeunes Filles Versailles ;;OUI;;;9000;;1;Turquie
-YUNGERMANN;Flore;;F;1892;Caffa;Oui;Empire Ottoman;Français;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;14000;2;Palestine
-YAHNI;Benjamin;;M;1898;Constantinople;Oui;Empire Ottoman;Français;4;ENIO rue d'Auteuil ;;;OUI;;9000;11000;1;Turquie
-YENNI;David;;M;1893;Serrs;;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;1600;1800;1;Grèce
-ZILBERSTEIN;Myriam;Dar;F;1899;Jrusalem;Oui;Empire Ottoman;Anglaise;4;Pension de Mme Isaac  Auteuil ;;OUI;;;1300;13000;5;Palestine
-ZACHARNI;Jacques;;M;1904;Andrinople;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;OUI;3600;;2;Turquie
-ZONANA;Salomon;;M;1885;Andrinople;Oui;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;;OUI;OUI;1400;2000;2;Turquie
-DANON;Marcelle;;F;1920;Damas;Oui;Syrie;Syrienne;3;;;;OUI;;9000;;1;Syrie
-MITRANI;Salomon;;M;1903;Kirkliss;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;3600;;1;Turquie
-GUERON;Marie;Altina;F;1912;Smyrne;Oui;Empire Ottoman;Turque;3;ENIO Jeunes Filles Versailles ;;;OUI;;9000;10000;3;Turquie
-SEGALL;Rbecca;Confino;F;1888;Choumla;Oui;Bulgarie;Bulgare;;Pension de Mme Isaac  Auteuil ;;OUI;;;1300;14000;3;Bulgarie
-PANIGEL;Jacob;;M;1891;Jrusalem;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;OUI;;;1500;4400;4;Palestine
-SAPORTA;Rachel;Piza;F;1870;Andrinople;Oui;Empire Ottoman;Hollandais;2;Institut Bischoffsheim;OUI;;;;1200;2200;8;Turquie
-SASSON;David;;M;1887;Thran;Oui;Perse;Persane;4;ENIO rue d'Auteuil ;;OUI;;;1600;16000;7;Perse
-ABBOU;Fortune Zo;Mnass;F;1915;Constantinople;Oui;Empire Ottoman;Turque;3;ENIO Jeunes Filles Versailles ;;;OUI;;9000;;1;Turquie
-ABBOU;Rebecca;Bensussan;F;1904;Andrinople;Oui;Empire Ottoman;Ottomane;;ENIO Jeunes Filles Versailles;;OUI;;;3600;9000;2;Turquie
-ABECASSIS;Orovida;;F;1892;Ttouan;Oui;Maroc;Marocaine;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;;1;Maroc
-ABENSOUR;Raphal;;M;1918;Fez;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;OUI;;OUI;8200;;2;Maroc
-ABERBAUM;Hay;;F;1894;Safed;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;1;Palestine
-ABI;Mose;;M;1887;Hamadan;Oui;Perse;Persane;4;ENIO rue d'Auteuil;;;;;1400;1000;2;Perse
-ABIB;Rachel;Haarcher;F;1877;Bayonne;;Français;Français;;Pension de Mme Isaac  Auteuil;;;OUI;;1500;14000;6;France
-ABIB;F;;M;1868;Alger;;Algrie;Français;;ENIO rue des Rosiers;;OUI;;;1500;14000;5;Algérie
-ABITBOL;S;;M;;;;;;;;;;;;8000;;1;
-ABITBOL;Solange;;F;1914;Casablanca;Oui;Maroc;Marocaine;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;2;Maroc
-ABITAN;Ruby;;F;1920;Casablanca;Oui;Maroc;Marocaine;2;ENIO Jeunes Filles Versailles;;;OUI;;8000;;1;Maroc
-ABENIECHE;Samuel;;M;1915;Salonique;Oui;Grce;Hollandais;4;ENIO rue d'Auteuil;;OUI;;;9000;;1;Grèce
-ABOUAF;Nathan;;M;1920;Smyrne;Oui;Turquie;Turque;3;ENIO rue d'Auteuil;;;OUI;OUI;9000;;1;Turquie
-ABOUDARHAM;Isaac;;M;1861;Ttuan;Oui;Maroc;;;;OUI;;;;1200;1900;5;Maroc
-ABRAVANEL;Marie;Hakim;F;1913;Constantinople;Oui;Empire Ottoman;Turque;4;ENIO Jeunes Filles Versailles;;OUI;;;9000;10000;2;Turquie
-ABRAVANEL;Ham;;M;1909;Tripoli;Oui;Lybie?;Italien;4;ENIO rue d'Auteuil;;;OUI;;3600;12000;3;Liban
-ABRAHAM;Joseph;;M;1914;Alep;Oui;Empire Ottoman;Syrienne;4;ENIO rue d'Auteuil;;OUI;;;9000;10000;2;Syrie
-ABRAMOFF;Ida;;F;1893;Varsovie;;Russie?;Russe;6;Pension de Mme Isaac  Auteuil; Institut Bischoffsheim;;;;;;;Russie
-ABRAVANEL;Jacques;;M;1888;Salonique;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;;OUI;;1600;;2;Grèce
-ABREVAYA;Mose;;M;1886;Smyrne;Oui;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;;OUI;;1400;2700;3;Turquie
-ABRAVANEL;Maurice;;M;1872;Constantinople;Oui;Empire Ottoman;Ottomane;;;;;;;1600;2400;2;Turquie
-ABRAMOWITZ;Ida;;F;1865;Constantinople;Oui;Empire Ottoman;;;;OUI;;;;1200;1900;3;Turquie
-ABREVAYA;Alice;Picciotto;F;1911;Alep;Oui;Empire Ottoman;Autrichienne;;Institut Bischoffsheim;;;OUI;;1400;1800;4;Syrie
-ADES;Esther;Bornstein;F;1881;Paris;;Français;Français;;Institut Bischoffsheim;;;OUI;;1800;2150;2;France
-ALSAT;Rachel;Behar;F;1876;Constantinople;Oui;Empire Ottoman;Ottomane;;Institut Bischoffsheim;;;OUI;;1400;1700;2;Turquie
-BAGDADI;Mathilde;Jacob;F;1864;Paris;;Français;Français;;Institut Bischoffsheim;OUI;;;;1600;2600;6;France
-BAKICH;Mose;;M;1890;Candie;;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;OUI;;;1400;;1;Grèce
-BALLOUL;Amlie;;F;1896;Andrinople;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;13000;3;Turquie
-BANDERLY;Michel;;M;1875;Caffa;Oui;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;;OUI;;1400;14000;6;Palestine
-BARISHAC;Isaac;;M;1892;Andrinople;Oui;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;;OUI;;1600;2000;3;Turquie
-BARISHAC;Victoria;;F;1906;Andrinople;Oui;Empire Ottoman;Ottomane;;Pension de Mme Weill-Kahn  Neuilly;;OUI;;;;;0;Turquie
-BARUCH;Mose;;M;1914;Tripoli;Oui;Lybie;;;ENIO rue d'Auteuil;;;OUI;;9000;10000;1;Liban
-BARUCH;Lily;;F;1914;Constantinople;Oui;Empire Ottoman;;;;;OUI;;;9000;11000;4;Turquie
-BARMAIMON;Isaac;;M;1917;Adin;Oui;Empire Ottoman;Ottomane;;;;;OUI;;9000;;2;Turquie
-BARDASCH;Augusta;;F;1894;Safed;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;13000;4;Palestine
-BARZILAØ;Ruth;;F;1912;Caffa;Oui;Empire Ottoman;;;ENIO Jeunes Filles Versailles;;OUI;;;9000;;3;Palestine
-BAROUCH;Sara;Lvy;F;1911;Safed;Oui;Empire Ottoman;;;;;OUI;;;9000;11000;5;Palestine
-BAROUCH;Joseph;;M;1910;Andrinople;Oui;Empire Ottoman;;;ENIO rue d'Auteuil;;OUI;;;9000;11000;6;Turquie
-BENAROYA;Isral;;M;1912;Andrinople;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;;OUI;;1600;14000;6;Turquie
-BENAROYA;Fanny;Cohen;F;1885;Constantinople;Oui;Empire Ottoman;Ottomane;3;Pension de Mme Isaac  Auteuil;;;OUI;;2000;14000;6;Turquie
-BENBASSAT;Elie;;M;1892;Andrinople;Oui;Empire Ottoman;Italien;3;ENIO rue d'Auteuil;;OUI;;OUI;1500;;2;Turquie
-BENOLIEL;Annette;;F;1867;Tanger;Oui;Maroc;Algérien;;Institut Bischoffsheim;;;;;1200;;1;Maroc
-BENSIMHON;Joseph;;M;1873;Fez;Oui;Maroc;Marocaine;;ENIO rue d'Auteuil;;;OUI;;1400;5400;7;Maroc
-BENEVISTE;Mose;;M;1879;Salonique;Oui;Empire Ottoman;;;;;OUI;;;1300;1500;3;Grèce
-BENZAQUEN;Vida;Matalon;F;1863;Constantinople;Oui;Empire Ottoman;Turque;;Institut Bischoffsheim;;;;;1200;2300;6;Turquie
-BENEVISTE;Matatias;;M;1868;Smyrne;Oui;Empire Ottoman;Ottomane;;ENIO rue des Rosiers;OUI;;;;1300;5900;10;Turquie
-BENCHIMOL;Jacob;;M;1857;Ttuan;Oui;Maroc;;;ENIO rue des Singes ENIO RUE DES ROSIERS;OUI;;;;1200;1500;2;Maroc
-BENOSIGLIO;Elvire;;F;1893;Salonique;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;3400;1;Grèce
-BENOLIEL;Salomon;;M;1882;Nemours;;Algrie;Français;;ENIO rue d'Auteuil;;;OUI;;1400;1600;2;Algérie
-BENSABAT;Lion;;M;1878;Tanger;Oui;Maroc;;;ENIO rue d'Auteuil;;OUI;;;1300;1800;4;Maroc
-BENRUBI;Esther;;F;1909;Salonique;Oui;Empire Ottoman;Hollandais;4;;;OUI;;;9000;;3;Grèce
-BOUZAGLO;Virginie;Nahon;F;1887;Caffa;Oui;Empire Ottoman;Français;4;Institut Bischoffsheim;;OUI;;;1000;1600;3;Palestine
-BRASSEUR;Adolphe;;M;1878;Beyrouth;Oui;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;;OUI;OUI;1400;5400;5;Liban
-BLUM;Lucie;Cohn;F;1881;Paris;;Français;Français;;Institut Bischoffsheim;;;OUI;;1600;;1;France
-CABRANEL;Sarah;;F;1916;Smyrne;Oui;Empire Ottoman;Turque;;;;;OUI;;9000;10000;2;Turquie
-CALMY;H;;M;1851;Bucarest;;Grande-Bulgarie;;;;;;;;1800;5400;3;Bulgarie
-CANETTI;Conorte;;F;1887;Andrinople;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;OUI;;;1300;5400;5;Turquie
-CARASSO;Samuel;;M;1889;Rhodes;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;;OUI;;1600;;1;Grèce
-CARMONA;Elie;;M;1859;Salonique;;Empire Ottoman;Hollandais;;ENIO rue des Rosiers;OUI;;;;1200;3000;14;Grèce
-CARACO;Juliette;;F;1893;Brousse;Oui;Empire Ottoman;Ottomane;3;Pension de Mme Isaac  Auteuil;;;;;1300;;1;Turquie
-CARASSO;Adle;;F;1899;Cavalla;;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;1;Grèce
-CARO;Stella;;F;1836;Livourne;;Italie;;;;;;;;4000;;1;Italie
-CASTRO;Lucie;Hazan;F;1883;Constantinople;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;2;Turquie
-CASTIEL;Simon;;M;1888;Larache;Oui;Maroc;Marocaine;3;ENIO rue d'Auteuil;;OUI;;OUI;1500;1800;2;Maroc
-CAZES;Rachel;Santo;F;1863;Smyrne;Oui;Empire Ottoman;Ottomane;;;OUI;;;;1500;;2;Turquie
-CAZES;Abraham;;M;1854;Ttuan;;Maroc;Marocaine;;ENIO rue des Singes;OUI;;;;2500;3200;5;Maroc
-COHEN;Heskel;;M;1873;Bagdad;Oui;Irak?;;;ENIO rue d'Auteuil;;;OUI;OUI;1400;1800;2;Irak
-COHEN;Rachel;;F;1893;Constantinople;Oui;Empire Ottoman;;3;Institut Bischoffsheim;;OUI;;;1300;13000;3;Turquie
-COHEN;Victoria;Zagha;F;1912;Damas;Oui;Empire Ottoman;Syrienne;4;;;OUI;;;9000;10000;2;Syrie
-BASSAN;Berthe;COMMERTCHERO;F;1884;Andrinople;Oui;Empire Ottoman;Ottomane;2;Pension de Mme Isaac  Auteuil;;OUI;;;1300;2000;3;Turquie
-CONQUY;Joseph;;M;1870;Gibraltar;;Gibraltar;;;ENIO rue d'Auteuil;;;OUI;;1500;6600;3;Gibraltar
-CONFINO;Albert;;M;1866;Carnabat;;Grande Bulgarie;;;;;;;;1400;16000;6;Turquie
-CORIAT;Hassiba;;F;1873;Ttuan;Oui;Maroc;Marocaine;;Institut Bischoffsheim;;;OUI;;1400;1500;1;Maroc
-COSEF;Jacques;;M;1892;Buzen;;Roumanie;Roumaine;4;ENIO rue d'Auteuil;;;OUI;;1600;2100;2;Roumanie
-CRESPINE;Rgine;;F;1888;Smyrne;Oui;Empire Ottoman;Italien;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;2;Turquie
-CREHANGE;Cline;;F;1862;Vantoux;;Français;Français;;;OUI;;;;1500;1700;3;France
-LEVI;Sara;Cohen;F;1870;Constantinople;Oui;Empire Ottoman;Turque;;Pension de Mme Isaac  Auteuil;;;OUI;;1200;2500;6;Turquie
-CARASSO;Mathilde;Naar;F;1891;Salonique;Oui;Empire Ottoman;Ottomane;4;Institut Bischoffsheim;;;OUI;;1400;1800;1;Grèce
-DABBAH;Elie;;M;1879;Alep;Oui;Empire Ottoman;Ottomane;;;;;OUI;;1400;1800;2;Syrie
-DAFFA;Joseph;;M;1859;Volo;;Grce;;;ENIO rue des Rosiers;OUI;;;;1500;2200;3;Grèce
-DAHAN;Isaac;;M;1916;Rabat;Oui;Maroc;Marocaine;3;ENIO rue d'Auteuil;;;OUI;OUI;9000;;1;Maroc
-DALEM;Jeanne;;F;1880;Constantinople;Oui;Empire Ottoman;Ottomane;;Institut Bischoffsheim;;;OUI;;1400;;2;Turquie
-DANON;Lonie;;F;1894;Bagdad;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;4400;3;Irak
-DANON;Raphal;;M;1885;Alexandria;;Roumanie;Roumaine;3;ENIO rue d'Auteuil;;OUI;;;1200;2600;4;Roumanie
-DAYAN;Salomon;;M;1912;Smyrne;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;9000;11000;2;Turquie
-DAYAN;Salomon;;M;1893;Caffa;Oui;Empire Ottoman;Français;;;;OUI;;;1500;1700;1;Palestine
-DELMEDICO;Jacques;;M;1862;Constantinople;;Empire Ottoman;Ottomane;;ENIO rue des Rosiers;OUI;;;;2400;;1;Turquie
-DJERASSI;Fortune;Rahmani;F;1913;Damas;Oui;Empire Ottoman;Persane;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;2;Syrie
-DJIVRE;Jacques;;M;1895;Andrinople;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;1600;3900;1;Turquie
-DJIVRE;Ham;;M;1895;Dmotica;Oui;Empire Ottoman;Français;;ENIO rue d'Auteuil;;OUI;;;1500;11000;5;Grèce
-DJIVRE;Sultana;Ovadia;F;1896;Andrinople;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;12000;5;Turquie
-DLIGATSCH;David;;M;1874;Moscou;;Russie;Russe;;;;;OUI;OUI;1400;1600;2;Russie
-DOLLMANN;Lon;;M;1868;Andrinople;Oui;Empire Ottoman;;;ENIO rue des Rosiers;;;OUI;;1400;2800;3;Turquie
-DONIO;Elie;;M;1914;Smyrne;Oui;Empire Ottoman;Turque;4;ENIO rue d'Auteuil;;OUI;;;9000;10000;1;Turquie
-DOUEGNAS;Victoria;;F;1903;Tyre;;Empire Ottoman;;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;1;Grèce
-DOUEC;Abraham;;M;1878;Alep;Oui;Empire Ottoman;Turque;;ENIO rue d'Auteuil;;;OUI;OUI;1400;;2;Syrie
-DUFOUR;Alice;;F;1875;Paris;;Français;Français;;Pension de Mme Weill-Kahn  Neuilly Institut Bischoffsheim;;;OUI;;1600;1900;3;France
-GOLDSTEIN;Alice;Durand;F;1887;Chateaudun du Rummel;;Algrie;Français;2;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;1;Algérie
-EDERY;Lucie;Ezknazi;F;1908;Andrinople;Oui;Empire Ottoman;Ottomane;4;ENIO Jeunes Filles Versailles Institut Bischoffsheim;;OUI;;;3600;11000;5;Turquie
-ELBAZ;Ison;;M;1919;Boujad;;Maroc;Marocaine;3;ENIO rue d'Auteuil;;;OUI;OUI;9000;;1;Maroc
-ELIEZER;Nissim;;M;1887;Andrinople;Oui;Empire Ottoman;Turque;3;ENIO rue d'Auteuil;;;OUI;;1300;1700;1;Turquie
-ELIA;Leila;;F;1894;Damas;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;3900;1;Syrie
-BONDY;Pauline;Epstein;F;1864;Constantinople;Oui;Empire Ottoman;;;Institut Bischoffsheim;OUI;;;;1400;1800;3;Turquie
-ELLAK;Ham;;M;1912;Safi;Oui;Maroc;Marocaine;3;ENIO rue d'Auteuil;;;OUI;;9000;;4;Maroc
-ELMALEH;Elie;;M;1908;Jrusalem;Oui;Empire Ottoman;Palestinienne;4;ENIO rue d'Auteuil;;;OUI;;9000;11000;4;Palestine
-ELMALEH;Esther;;F;1917;Casablanca;Oui;Maroc;Marocaine;4;;;;OUI;;9000;;1;Maroc
-ELMALEH;Messody;Pariente;F;1877;Ttuan;Oui;Maroc;;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;5900;6;Maroc
-ELMALEH;Viva;Abitbol;F;1917;Mogador;Oui;Maroc;Marocaine;;;;;OUI;;9000;10000;1;Maroc
-ENRIQUEZ;Edmond;;M;1887;Tunis;Oui;Tunisie;Français;3;ENIO rue d'Auteuil;;;OUI;;1400;1600;4;Tunisie
-EPSTEIN;Anna;;F;1890;Jrusalem;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;1;Palestine
-SEGAL;Flora;Epstein;F;1888;Safed;Oui;Empire Ottoman;Autrichienne;4;Pension de Mme Isaac  Auteuil;;OUI;;;1200;;1;Palestine
-ESKYA;Laura;;F;1914;Andrinople;Oui;Empire Ottoman;Turque;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;2;Turquie
-ESKENAZI;Rbecca;;F;1894;Constantinople;Oui;Empire Ottoman;Ottomane;3;Pension de Mme Isaac  Auteuil;;OUI;;;1300;3900;2;Turquie
-ALBAGLI;Rachel;Faraggi;F;1887;Smyrne;Oui;Empire Ottoman;Ottomane;4;Institut Bischoffsheim;;;OUI;;1400;4900;1;Turquie
-FARHI;Joseph D;;M;1878;Damas;Oui;Empire Ottoman;Ottomane;;;;;OUI;;1400;1800;3;Syrie
-FALCON;Nissim;;M;1878;Smyrne;Oui;Empire Ottoman;Français;;ENIO rue d'Auteuil;;OUI;;;1300;5400;11;Turquie
-FALCON;Ccile;Haarscher;F;1875;Nantes;;Français;Français;;;;OUI;;;1400;2900;8;France
-FARHI;Noury;;M;1892;Damas;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;OUI;;;1500;1900;2;Syrie
-FARHI;Sarah;;F;1883;Alep;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1500;2;Syrie
-FARINE;Esther;;F;1884;Choumla;Oui;Bulgarie;Bulgare;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;4900;5;Bulgarie
-FARHI;Behor;;M;1871;Choumla;Oui;Bulgarie;Bulgare;;ENIO rue des Rosiers;;;OUI;;1400;;3;Bulgarie
-FARAGGI;Clarisse;;F;1891;Constantinople;Oui;Empire Ottoman;Ottomane;4;Institut Bischoffsheim;;OUI;;;1300;1700;1;Turquie
-FARHI;Rosa;Farhi;F;1888;Damas;Oui;Empire Ottoman;Ottomane;3;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1500;2;Syrie
-FARHI;Isaac;;M;1871;Damas;Oui;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;OUI;;OUI;1200;14000;8;Syrie
-FARACHE;Elise;Catalan;F;1894;Kazanlik;;Empire Ottoman;Ottomane;4;Institut Bischoffsheim;;OUI;;;1300;13000;4;Bulgarie
-FARHI;Saydi;;F;1919;Izmir (Smyrne);Oui;Turquie;Turque;4;;;;OUI;;9000;;1;Turquie
-FELDMANN;Suzanne;;F;1918;Safed;Oui;Empire Ottoman;Palestinienne;4;;;;OUI;;9000;;1;Palestine
-FINZI;Maurice;;M;1892;Tatar-Bazardjik;Oui;Bulgarie;;4;ENIO rue d'Auteuil;;OUI;;OUI;1500;;2;Bulgarie
-Français;Delphine;Bloch;F;1868;Hochfelden;;Français;Allemand;4;Institut Bischoffsheim;;;OUI;;1500;2800;10;France
-GAGUINE;Rgine;;F;1897;Magnsie;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;4400;2;Turquie
-GANON;Marie;Avigdor;F;1882;Andrinople;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;5400;8;Turquie
-GELBMANN;Hortense;;F;1861;Haguenau;;Français;Allemand;;;;;OUI;;3000;3900;2;France
-GERSON;;Bacsi;F;1866;Choumla;;Grande Bulgarie;Français;;Institut Bischoffsheim;;;;;1200;1600;2;Bulgarie
-GERSON;Mose;;M;1864;Salonique;Oui;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;OUI;;;1000;2000;2;Grèce
-GOLDMANN;Rbecca;;F;1915;Kalisz;;Pologne;Polonais;;;;OUI;;;9000;10000;1;Pologne
-GOLDENBERG;Alfred;;M;1907;Or-Yehouda;;Empire Ottoman;Roumaine;4;ENIO rue d'Auteuil;;;OUI;;9000;12000;4;Palestine
-GOLFAND;Abraham;;M;1888;Ekaterinoslaw;;Russie;Russe;4;Institut agronomique;;;;;1600;6400;2;Russie
-GOLDMANN;Marcus;;M;1893;Rosch Pina;;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;OUI;;;1500;;1;Palestine
-GOMEL;Benjamin;;M;1912;Magnsie;Oui;Empire Ottoman;Turque;4;ENIO rue d'Auteuil;;;OUI;;9000;10000;2;Turquie
-GOMEL;Marie;;F;1916;Smyrne;Oui;Empire Ottoman;Ottomane;3;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;2;Turquie
-GOURLAND;Mry;Pisa;F;1884;Constantinople;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil ;;;OUI;;1400;14000;7;Turquie
-GOUREVITZ;Lazare;;M;1915;Odessa;;Russie;Palestinienne;4;Tel-Aviv;;OUI;;;9000;;1;Russie
-GOURDJI;Lonore;;F;1876;Constantinople;Oui;Empire Ottoman;Turque;;Institut Bischoffsheim;;OUI;;;1300;1800;5;Turquie
-SOUESSIA;St;Garzon;F;1887;Ttuan;Oui;Maroc;Marocaine;3;Institut Bischoffsheim;;;;;1000;;3;Maroc
-BITTON;Rgine;Hasson;F;1915;Tel-Aviv;;Palestine;Palestinienne;3;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;3;Palestine
-BENSOUSSAN;Sophie;Halphon;F;1907;Andrinople;Oui;Empire Ottoman;Ottomane;4;;;;;;9000;;4;Turquie
-GROSSMANN;Bellina;Haker;F;1869;Constantinople;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;5900;2;Turquie
-HASSON;Isaac;;M;1887;Andrinople;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;;OUI;;1600;2300;6;Turquie
-HASSON;Julia;;F;1886;Constantinople;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;;OUI;;;;2;Turquie
-SORIANO;Rachel;Hasson;F;1886;Constantinople;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;5400;3;Turquie
-HASSON;Marie;;F;1897;Rhodes;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;3900;2;Grèce
-HASSON;Rose;;F;1897;Le Caire;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;1;Egypte
-HATCHUEL;Sol;;F;1897;Caffa;Oui;Empire Ottoman;Français;4;Pension de Mme Isaac  Auteuil;;;;;1400;;1;Palestine
-HABIF;Samuel;;M;1895;Andrinople;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;;OUI;OUI;1600;1800;1;Turquie
-HACHUEL;Estrella;;F;1885;Ttuan;Oui;Maroc;Marocaine;;Institut Bischoffsheim;;OUI;;;1300;2100;4;Maroc
-HADJEZ;Daniel;;M;1914;Smyrne;Oui;Empire Ottoman;Turque;4;ENIO rue d'Auteuil;;;;OUI;9000;10000;2;Turquie
-HANAN;Elizer;;M;1891;Rhodes;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;;OUI;;1600;;2;Grèce
-HAZAN;Isaac;;M;1882;Tripoli;Oui;Lybie;Italien;4;ENIO rue d'Auteuil;;;OUI;OUI;1400;;2;Liban
-HIRSCH;Samuel;;M;1843;Dieuze;;Français;Français;;Ecole Normale de Colmar;OUI;;;;2500;6000;3;France
-IBENSAL;Isaac;;M;1865;Constantinople;Oui;Empire Ottoman;Ottomane;;;;OUI;;;600;2000;5;Turquie
-IFRAH;Elie;;M;1913;Casablanca;Oui;Maroc;Français;4;ENIO rue d'Auteuil;;OUI;;;9000;10000;3;Maroc
-ISRAEL;Sarah;;F;1917;Ttuan;Oui;Maroc;Marocaine;4;;;;OUI;;9000;;1;Maroc
-ISRAEL;Matica;Abravanel;F;1905;Salonique;Oui;Empire Ottoman;Hellne;4;Institut Bischoffsheim;;OUI;;;3600;11000;4;Grèce
-ITTAH;Mose;;M;1892;Caffa;Oui;Empire Ottoman;Marocaine;3;ENIO rue d'Auteuil;;OUI;;;1500;2200;2;Palestine
-JGER;Nathan;;M;1881;Botosani;;Roumanie;Roumaine;;ENIO rue d'Auteuil;;;OUI;OUI;;;1;Roumanie
-JAPHET;Emmanuel;;M;1874;Constantinople;Oui;Empire Ottoman;Russe;;ENIO rue d'Auteuil;;;OUI;OUI;1400;1500;2;Turquie
-JEJATI;Slim (Simon);;M;1915;Damas;Oui;Empire Ottoman;Syrienne;4;ENIO rue d'Auteuil;;;OUI;;9000;10000;2;Syrie
-JODICE;Herminie;;F;1864;Paris;;Français;Français;;Ecole de Mlle Masson  Paris;OUI;;;;1500;;1;France
-JONAS;Penina;;F;1884;Moscou;;Russie;Ottomane;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;4;Russie
-ALBALA;Marie;Khiat;F;1877;Tunis;Oui;Tunisie;Français;;Pension de Mme Isaac  Auteuil ;;;;;1200;5900;5;Tunisie
-BENAROYA;Blanche;Kahn;F;1892;Sarregmines;;Allemagne;Allemand;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1900;2;Allemagne
-KABILI;Jacques;;M;1888;Larisse;Oui;Empire Ottoman;;3;ENIO rue d'Auteuil;;;OUI;;1300;;1;Grèce
-KAHANOFF;Elie;;M;1882;Jrusalem;Oui;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;;OUI;OUI;1400;14000;10;Palestine
-KAHANSKY;Ida;;F;1912;Kiev;;Russie;Russe;;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;3;Russie
-KAMINITZ;Pauline;;F;1896;Lublin;;Pologne;Russe;5;Pension de Mme Isaac  Auteuil;;OUI;;;1300;3900;1;Pologne
-KNAFO;Isaac D;;M;1910;Mogador;Oui;Maroc;Marocaine;3;ENIO rue d'Auteuil;;OUI;;;9000;;1;Maroc
-KNAFO;Joseph;;M;1882;Mogador;Oui;Maroc;Marocaine;;ENIO rue d'Auteuil;;OUI;;;1300;2300;4;Maroc
-KRIPPE;Emilie;;F;1874;Karkow;;Russie;Russe;;;;;;;1200;;2;Russie
-DAYAN;S;Lerman;F;1909;Beyrouth;Oui;Empire Ottoman;;4;Institut Bischoffsheim;;OUI;;;3600;11000;3;Liban
-GRAUER;Rachel;Lvy;F;1892;Constantinople;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1800;2;Turquie
-HAYON;Elise;Lvy;F;1882;La Fert sous Jouarre;Oui;Français;Français;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1800;6;France
-LABI;Rgine;;F;1882;Tripoli;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1700;2;Liban
-LAHANA;Joseph;;M;1881;Smyrne;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;1400;2850;3;Turquie
-LAREDO;Mose;;M;1893;Tibriade;Oui;Empire Ottoman;Marocaine;;;;;OUI;;1600;14000;5;Palestine
-LAZARE;Sigismond;;M;1899;San Français;;Etats-Unis;Italien;3;ENIO rue d'Auteuil;;OUI;;;1500;3600;1;Etats-Unis
-LAZARE;Albert;;M;1890;Ispahan;Oui;Iran;Persane;4;ENIO rue d'Auteuil;;OUI;;;1400;10000;4;Perse
-LEIBOVICI;Marcu;;M;1887;Folticeni;;Roumanie;Roumaine;3;ENIO rue d'Auteuil;;;OUI;;1600;;3;Roumanie
-LEON;Estrella;;F;1898;Rhodes;;Empire Ottoman;Italien;3;Pension de Mme Weill-Kahn  Neuilly;;OUI;;;3600;;1;Grèce
-LERNER;Daniel;;M;1896;Caffa;Oui;Empire Ottoman;Ottomane;;ENIO rue d'Auteuil;;OUI;;;3600;12000;4;Palestine
-LERNER;Flicie;Behar;F;1898;Philippopolis;Oui;Bulgarie;Bulgare;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;13000;3;Bulgarie
-LEVINE;Sonia;;F;1917;Thran;Oui;Iran;Palestinienne;;;;;OUI;;9000;10000;1;Perse
-LEVY;Marco;;M;1886;Carnabat;;Bulgarie;Bulgare;3;ENIO rue d'Auteuil;;;OUI;;1600;2200;4;Turquie
-LEVY;Stella;;F;1890;Roustchouk;Oui;Empire Ottoman;Bulgare;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1500;2;Bulgarie
-LOUPO;Samuel;;M;1859;Roustchouk;Oui;Empire Ottoman;Ottomane;;ENIO rue des Rosiers;OUI;;;;1800;7000;4;Bulgarie
-ALMALEH;Lina;Messulam;F;1912;Andrinople;Oui;Empire Ottoman;Ottomane;;;;OUI;;;9000;;3;Turquie
-ASTRUC;Esther;Marcovitch;F;1878;Philippopolis;Oui;Empire Ottoman;Ottomane;;Institut Bischoffsheim;;;OUI;;1400;2400;4;Bulgarie
-BENSAHEL;Myriam;Mamane;F;1913;Safed;Oui;Empire Ottoman;Algérien;;ENIO Jeunes Filles Versailles;;OUI;;;9000;10000;2;Palestine
-MALKI;Rene;Matalon;F;1904;Alep;Oui;Empire Ottoman;Ottomane;2;Institut Bischoffsheim;;OUI;;;3600;10000;3;Syrie
-MALKI;Nissim;;M;1902;Andrinople;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;OUI;;;3600;10000;3;Turquie
-MAMANE;Mose;;M;1915;Safed;Oui;Empire Ottoman;Français;4;ENIO rue d'Auteuil;;;OUI;;9000;;2;Palestine
-MARGOSCHES;Fanny;;F;1873;Constantinople;Oui;Empire Ottoman;;;Institut Bischoffsheim;;;OUI;;1400;1500;2;Turquie
-MASLIAH;Rbecca;;F;1884;Magnsie;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;5400;5;Turquie
-MATALON;Joseph;;M;1856;Constantinople;Oui;Empire Ottoman;Français;;ENIO rue des Singes;OUI;;;;2000;4500;5;Turquie
-MEFANO;Robert Samuel;;M;1905;Andrinople;Oui;Empire Ottoman;Français;3;ENIO rue d'Auteuil;;OUI;;;3400;12000;4;Turquie
-MENASSE;Marie;;F;1887;Constantinople;Oui;Empire Ottoman;Ottomane;;Institut Bischoffsheim;;OUI;;;1300;;1;Turquie
-MENDA;Ezra;;M;1903;Andrinople;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;;OUI;OUI;3600;12000;3;Turquie
-MESSERI;Reina;;F;1908;Tibriade;Oui;Empire Ottoman;Algérien;4;;;OUI;;;9000;11000;1;Palestine
-MOGRABI;David;;M;1881;Damas;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;1400;;2;Syrie
-NEHAMA;Joseph;;M;1880;Salonique;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil ;;OUI;;;1200;6000;2;Grèce
-NIDDAM;Matatia;;M;1892;Fez;Oui;Maroc;Allemand;4;ENIO rue d'Auteuil;;;OUI;OUI;1600;;1;Maroc
-NIGO;La;Mitrani;F;1867;Andrinople;Oui;Empire Ottoman;;;Institut Bischoffsheim;OUI;;;;1200;1400;2;Turquie
-NIGRINE;Nissim;;M;1892;Prveza;;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil ;;;OUI;OUI;1800;;2;Grèce
-NINIO;Nomi;Shohet;F;1912;Bagdad;Oui;Iraq;Iraquienne;;ENIO Jeunes Filles Versailles;;OUI;;;9000;;3;Irak
-NAHON;Lon;;M;1894;Ttuan;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;;OUI;OUI;1600;;1;Maroc
-NAAR;Julie;;F;1890;Constantinople;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;;1;Turquie
-NABON;David;;M;1858;Andrinople;Oui;Empire Ottoman;Ottomane;;ENIO rue des Rosiers;OUI;;;;1200;6600;6;Turquie
-NAHOUM;Kethy;Pontremoli;F;1907;Smyrne;Oui;Empire Ottoman;Hellne;3;Institut Bischoffsheim;;;OUI;;3600;12000;3;Turquie
-NAHMIAS;Ernestine;;F;1892;Salonique;Oui;Empire Ottoman;Ottomane;3;Pension de Mme Isaac  Auteuil;;;OUI;;1400;13000;2;Grèce
-ASSOULINE;Esther;Oiroir;F;1911;Damas;Oui;Empire Ottoman;Syrienne;;;;OUI;;;9000;;2;Syrie
-OBADIA;Elie;;M;1918;Fez;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;;OUI;;8800;;2;Maroc
-OHANA;Bension;;M;1916;Safi;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;;OUI;OUI;9000;;1;Maroc
-OSSOVETZKY;Acher;;M;1869;Kiev;;Russie;;;ENIO rue d'Auteuil;;;OUI;;1400;;1;Russie
-OVADIA;Rene;;F;1896;Bagdad;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;2;Irak
-BEHMOIRAS;Henriette;Palacci;F;1913;Smyrne;Oui;Empire Ottoman;Turque;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;1;Turquie
-Français;Lucie;Perahia;F;1916;Salonique;Oui;Empire Ottoman;Grecque;;;;;OUI;;9000;;1;Grèce
-PAGGI;Clothilde;;F;1892;Alexandrie;Oui;Egypte;Italien;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;1;Egypte
-PANIGEL;Louise;Aboulafia;F;1893;Beyrouth;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;4400;2;Liban
-PAPPO;Victoria;;F;1895;Andrinople;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;2;Turquie
-PARIENTE;Semtob;;M;1849;Ttuan;;Maroc;Français;;;OUI;;;;2500;7000;5;Maroc
-PAVES;Simon;;M;1889;Bucarest;;Roumanie;Roumaine;3;ENIO rue d'Auteuil;;;OUI;;1600;;1;Bulgarie
-PELOSOF;Isaac;;M;1855;Larisse;;Grce;;;ENIO rue d'Auteuil;OUI;;;;2500;3000;1;Grèce
-PENSO;Elie;;M;1892;Damas;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;;OUI;OUI;1600;14000;5;Syrie
-PEREZ;Jacques;;M;1911;Salonique;Oui;Grce;Hellne;4;ENIO rue d'Auteuil;;;OUI;;9000;11000;2;Grèce
-PILOSOPH;Joseph;;M;1896;Andrinople;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;1600;;1;Turquie
-PIMIENTA;Abraham;;M;1860;Tanger;Oui;Maroc;;;;;;;;1200;1400;2;Maroc
-PINTO;Lon;;M;1911;Rabat;Oui;Maroc;Marocaine;3;ENIO rue d'Auteuil;;OUI;;;9000;10000;3;Maroc
-POLICAR;La;;F;1891;Brousse;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;4900;4;Turquie
-PESSO;Rachel;Menda;F;1898;Andrinople;Oui;Empire Ottoman;Ottomane;5;Institut Bischoffsheim;;OUI;;;1300;11000;4;Turquie
-COHEN;Sarah;Romy;F;1893;Dardanelles;Oui;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;14000;6;Turquie
-RABINOVITCH;Elsa;;F;1916;Port Sad;;Egypte;Egyptienne;;ENIO Jeunes Filles Versailles;;;OUI;;9000;;2;Egypte
-RODRIGUEZ;Jacques;;M;1912;Andrinople;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;9000;10000;3;Turquie
-RODRIGUES;Mose;;M;1891;Andrinople;Oui;Empire Ottoman;Turque;;ENIO rue d'Auteuil;;OUI;;;1500;1700;3;Turquie
-ROMANO;Lon;;M;1907;Andrinople;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;;OUI;;3400;;1;Turquie
-ROMANOFF;Sebatia;Sasoon;F;1866;Alep;Oui;Empire Ottoman;Ottomane;;Institut Bischoffsheim;;;;;1200;2700;5;Syrie
-ROSENTHAL;Benjamin;;M;1916;Le Caire;;Egypte;Palestinienne;4;ENIO rue d'Auteuil;;;OUI;;9000;;1;Egypte
-ROSSANO;Rbecca;;F;1890;Constantinople;Oui;Empire Ottoman;Ottomane;2;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1800;2;Turquie
-ROSENBAUM;Ephram;;M;1885;Odessa;;Russie;Turque;;ENIO rue d'Auteuil;;;OUI;;1400;4900;6;Russie
-ROUSSO;Suzette;;F;1918;Izmir;Oui;Empire Ottoman;Turque;3;;;;OUI;;9000;;1;Turquie
-SABAN;Rgine;;F;;Constantinople;;Empire Ottoman;Ottomane;;Pension de Mme Isaac  Auteuil;;;;;1400;1700;2;Turquie
-SEMACH;Sultana;;F;1891;Andrinople;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;4400;3;Turquie
-SHEBABO;Lili;Angel;F;1914;Salonique;Oui;Grce;Grecque;;;;;OUI;;9000;10000;2;Grèce
-SIDI;Maurice;;M;1883;Tatar-Bazardjik;Oui;Bulgarie;Bulgare;;ENIO rue d'Auteuil;;;OUI;OUI;1400;14000;8;Bulgarie
-SARFATI;Nissim;;M;1913;Andrinople;Oui;Empire Ottoman;Ottomane;3;ENIO rue d'Auteuil;;OUI;;;9000;10000;4;Turquie
-ALCHALEL;Mathilde;Twersky;F;1867;Kowno;;Russie;Français;;Ecole Svign  Paris;;OUI;;;1400;2800;4;Russie
-ESKENAZI;La;Tovi;F;1909;Andrinople;Oui;Empire Ottoman;Ottomane;3;;;OUI;;;9000;;4;Turquie
-MAMANE;Adle;Toldano;F;1914;Tibriade;Oui;Empire Ottoman;Français;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;;2;Palestine
-TABOH;Allegra;;F;1897;Salonique;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;;OUI;;3600;13000;2;Grèce
-TADJOURI;Benjamin;;M;1906;Tripoli;;Lybie;Italien;3;ENIO rue d'Auteuil;;;OUI;;3400;12000;3;Liban
-TADJOURI;Ruben;;M;1895;Tripoli;;Lybie;Italien;4;ENIO rue d'Auteuil;;;OUI;;1600;13000;3;Liban
-TAHAR;Joseph;;M;1890;Sousse;Oui;Tunisie;Tunisien;3;ENIO rue d'Auteuil;;OUI;;OUI;1500;14000;3;Tunisie
-TAOUREL;Lon;;M;1865;Ttuan;Oui;Maroc ;Français;;ENIO rue des Rosiers;OUI;;;;1200;5900;6;Maroc 
-TARRAB;Fortune;;F;1909;Beyrouth;Oui;Empire Ottoman;Syrienne;4;;;OUI;;;9000;11000;2;Liban
-TERMIN;Rbecca;;F;1892;Constantinople;Oui;Empire Ottoman;Ottomane;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;13000;7;Turquie
-TESSLER;Anna;;F;1919;Safed;Oui;Palestine;Libanaise;4;;;;;;8200;;1;Palestine
-TOBIE;Israel;;M;1882;Cachan;;Français;Persane;3;ENIO rue d'Auteuil;;OUI;;OUI;1500;1700;3;France
-TOLEDO;Fortune;;F;1913;Andrinople;Oui;Empire Ottoman;Ottomane;3;ENIO Jeunes Filles Versailles;;;;;9000;;1;Turquie
-TOLEDANO;Stella;;F;1896;Tanger;Oui;Maroc;Marocaine;3;"Pension de Mme Weill-Kahn  Neuilly; Pension de Mme Isaac  Auteuil";;;OUI;;1400;13000;5;Maroc
-TRIGODA;Shulamith;;F;1917;Jrusalem;Oui;Empire Ottoman;Palestinienne;;;;;OUI;;9000;;1;Palestine
-UNGAR;Sara;;F;1849;Bonn;;Allemagne;Allemand;;;;;OUI;;2000;3500;3;Allemagne
-SCHOUKER;Alice;Veneziani;F;1883;Constantinople;Oui;Empire Ottoman;Italien;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1500;2;Turquie
-VENTURA;Sara;Sidi;F;1867;Smyrne;Oui;Empire Ottoman;Espagnole;;Institut Bischoffsheim;OUI;;;;1200;14000;7;Turquie
-VICTORIAS;Julie;;F;1893;Constantinople;Oui;Empire Ottoman;Ottomane;4;Institut Bischoffsheim;;OUI;;;1300;4400;2;Turquie
-WEISSMANN;Hlne;Salzer;F;1857;Constantinople;Oui;Empire Ottoman;Autrichienne;;Institut Bischoffsheim;OUI;;;;1500;3000;4;Turquie
-WITTEMBERG;Ida;;F;1869;Kherson;;;;;;;;OUI;;1500;2400;3;Ukraine
-YAHNI;Henriette;Rabinovitch;F;1910;Port Sad;;Egypte;Français;3;ENIO Jeunes Filles Versailles;;OUI;;;9000;11000;1;Egypte
-YOEL;Elza;;F;1896;Salonique;Oui;Empire Ottoman;Ottomane;3;Pension de Mme Weill-Kahn  Neuilly Pension de Mme Isaac  Auteuil;;;OUI;;1400;3900;2;Grèce
-ZAFrançais;Jacques;;M;1889;Mogador;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;OUI;;;1500;1700;1;Maroc
-ZECHARIA;Menahem;;M;1892;Andrinople;Oui;Empire Ottoman;Ottomane;4;ENIO rue d'Auteuil;;;OUI;;1600;12000;5;Turquie
+Nom;Prenom;Nee;Sexe;annee_naissance;Ville_naissance;ecole;Pays_naissance;Nationalite;Sejour_Paris;ecole_maitre;Brevet_capacite;Brevet_elementaire;Brevet_superieur;Brevet_Hebreu;Traitement_initial;Traitement_final;Nombre_de_postes;RégionNaissance;latitude;longitude
+TOUSSIE;Mardoche;;M;1882;Alep;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;1400;4900;7;Syrie;36.19924;37.1637253
+SOMECKH;Sal;;M;1858;Bagdad;Oui;Empire Ottoman;Ottoman;;ENIO rue des Rosiers ;OUI;;;;1200;6000;8;Irak;33.3061701;44.3872213
+SELAME;Joseph;;M;1874;Caffa;Oui;Empire Ottoman;Turque;;ENIO rue d'Auteuil;;;OUI;OUI;1400;5400;9;Palestine;45.1604552;10.0099211
+ARANIAS;Michel;;M;1873;Brousse;Oui;Empire Ottoman;Turque;;ENIO rue d'Auteuil;;;OUI;OUI;1400;14000;9;Turquie;45.6012286;3.4591515
+ABBOU;Maclouf;;M;1881;An Temouchen;;Algrie;Français;;ENIO rue d'Auteuil;;;OUI;OUI;1400;5400;3;Algérie;49.9973839;2.6553628
+ELNEKAVE;Rbecca;;F;1906;Caffa;Oui;Empire Ottoman;Palestinienne;3;ENIO Jeunes Filles Versailles Institut Bischoffsheim;;;;;3600;;1;Palestine;45.1604552;10.0099211
+DALEM;Marguerite;;F;;Constantinople;;Empire Ottoman;Ottoman;;;;;OUI;;1400;1900;3;Turquie;41.006381;28.9758715
+ABBO;Judith;;F;1912;Tibriade;Oui;Empire Ottoman;Français;;ENIO Jeunes Filles Versailles ;;OUI;;;9000;;2;Palestine;32.79580322746962;35.53075502980196
+LOUBATON;Juda;;M;1882;Caffa;Oui;Empire Ottoman;Français;;ENIO rue d'Auteuil;;OUI;;;1300;14000;9;Palestine;45.1604552;10.0099211
+ASTRUC;Ezra;;M;;Sofia;;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;OUI;;;1200;3000;8;Bulgarie;42.6977028;23.3217359
+ASSA;Sol;Cohen;F;1899;Constantinople;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;12000;4;Turquie;41.006381;28.9758715
+NINIO;Lon;;M;1912;Alexandrie;Oui;Egypte;Egyptienne;4;ENIO rue d'Auteuil;;;OUI;;9000;10000;3;Egypte;44.8349534;8.7450304
+TAGGER;Salvador;;M;1886;Jrusalem;Oui;Empire Ottoman;Autrichienne;4;ENIO rue d'Auteuil;;;OUI;;1400;1800;2;Palestine;;
+ALGUADISCH;Ham;;M;1910;Andrinople;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil ;;OUI;;;9000;10000;2;Turquie;43.3096979;5.4117413
+LEZRAH;Dina;SEBBON;F;1890;Oran;;Algrie;Français;2;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;1;Algérie;35.7044415;-0.6502981
+FELDMANN;Marie;;F;1907;Safed;Oui;Empire Ottoman;Palestinienne;4;ENIO Jeunes Filles Versailles Institut Bischoffsheim;;;OUI;;3600;9000;2;Palestine;32.9646301;35.502451
+ELMALEH;Alice;;F;1905;Beyrouth;Oui;Empire Ottoman;Français;;;;;OUI;;3600;10000;1;Liban;33.8892265;35.5025585
+GARGUIR;Marie;;F;1891;Magnsie;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;4900;9;Turquie;;
+SAYEGH;Olga;;F;1911;Damas;Oui;Empire Ottoman;Français;;ENIO Jeunes Filles Versailles;;OUI;;;9000;;4;Syrie;33.5130695;36.3095814
+SIMHA;Mose;;M;1909;Larisse;Oui;Grce;Hollandais;4;ENIO rue d'Auteuil;;;OUI;;9000;11000;1;Grèce;-8.2051288;-34.9195317
+MISRAHI;Ham;;M;1881;Damas;Oui;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;;OUI;;1400;1700;2;Syrie;33.5130695;36.3095814
+DANAN;Mimoun;;M;1899;Fez;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;;OUI;;1600;;1;Maroc;34.0346534;-5.0161926
+MESSOULAM;Fanny;;F;1914;Andrinople;Oui;Empire Ottoman;Ottoman;3;;;OUI;;;9000;;2;Turquie;43.3096979;5.4117413
+MENACHTER;Raphal;;M;1891;Caffa;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;OUI;;;1500;;1;Palestine;45.1604552;10.0099211
+COHEN;Mose;;M;1865;Choumla;Oui;Grande Bulgarie;Ottoman;;ENIO rue des Rosiers;OUI;;;;1200;2700;5;Bulgarie;;
+BEHMOIRAS;Lon;;M;1910;Andrinople;Oui;Empire Ottoman;Français;3;ENIO rue d'Auteuil;;OUI;;OUI;9000;11000;3;Turquie;43.3096979;5.4117413
+SABAN;Fanny;;F;1888;Constantinople;Oui;Empire Ottoman;Turque;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;2;Turquie;41.006381;28.9758715
+MOUSSAFIR;Jacques;;M;1897;Rhodes;Oui;Empire Ottoman;Italien;4;ENIO rue d'Auteuil;;;OUI;;1600;3600;1;Grèce;48.7584377;6.8985177
+ARDATTO;Barzila;;M;1907;Kirkliss;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;3600;;1;Turquie;;
+BEHMOIRAS;Sara;;F;1885;Andrinople;Oui;Empire Ottoman;Autrichienne;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;5400;4;Turquie;43.3096979;5.4117413
+CORIAT;Salomon;;M;1870;Saint Lorent;;Français;Français;;;;;;;2400;;1;France;48.0354136;2.4073322
+DANON;Joseph;;M;1864;Smyrne;Oui;Empire Ottoman;Ottoman;;ENIO rue des Rosiers;OUI;;;;1400;6600;6;Turquie;14.6118301;-61.0437439
+VALADJI;Juda;;M;1873;Tatar-Bazardjik;Oui;Grande Bulgarie;;;;;;OUI;OUI;1400;2300;4;Bulgarie;;
+VALADJI;Esther;Seidenberg;F;1881;Adin;Oui;Empire Ottoman;;;;;OUI;;;1300;1400;4;Turquie;41.1948376;-120.9442258
+FEINSTEIN;Fanny;Judetz;F;1906;Caffa;Oui;Empire Ottoman;Palestinienne;4;ENIO Jeunes Filles Versailles Institut Bischoffsheim;;OUI;;;9000;10000;2;Palestine;45.1604552;10.0099211
+SEMACH;Oro;Guron;F;1874;Tatar-Bazardjik;Oui;Empire Ottoman;;3;Pension de Mme Isaac  Auteuil;;;OUI;;1400;10000;7;Bulgarie;;
+HASSAN;Mose;;M;1904;Sfax;Oui;Tunisie;Français;3;ENIO rue d'Auteuil;;OUI;;;3400;;1;Tunisie;34.7394361;10.7604024
+IEROUSALMI;Ham;;M;1874;Constantinople;Oui;Empire Ottoman;;;ENIO rue d'Auteuil;;;OUI;OUI;1400;1600;5;Turquie;41.006381;28.9758715
+JACOBY;Jean;;M;1897;Jassy;;Roumanie;Roumaine;4;ENIO rue d'Auteuil;;;OUI;;1600;;1;Roumanie;47.1615598;27.5837814
+KRAYEM;Olga;;F;1917;Damas;Oui;Empire Ottoman;Ottoman;;;;OUI;;;8200;;2;Syrie;33.5130695;36.3095814
+BENSIMON;Rosita;Lvy;F;1905;Tripoli;Oui;Lybie;Français;4;Institut Bischoffsheim;;OUI;;;3600;10000;3;Liban;32.896672;13.1777923
+MAISSI;Elie;;M;1911;Jrusalem;Oui;Empire Ottoman;Palestinienne;4;ENIO rue d'Auteuil;;;OUI;;9000;;1;Palestine;;
+OYAYON;Lily;Sasson;F;1914;Beyrouth;Oui;Empire Ottoman;Anglaise;3;ENIO Jeunes Filles Versailles ;;OUI;;;9000;;1;Liban;33.8892265;35.5025585
+PAPAROS;Ham;;M;1896;Preveza;Oui;Grce;Grecque;;ENIO rue d'Auteuil;;OUI;;;1500;;1;Grèce;38.9571673;20.7516209
+RODRIGUEZ;Jacques;;M;1912;Andrinople;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;9000;10000;3;Turquie;43.3096979;5.4117413
+STEINFED;Anna;Mamane;F;1910;Safed;Oui;Empire Ottoman;Palestinienne;3;ENIO Jeunes Filles Versailles;;OUI;;;9000;10000;7;Palestine;32.9646301;35.502451
+CONFINO;Claire;Toldo;F;1878;Constantinople;Oui;Empire Ottoman;Ottoman;;Institut Bischoffsheim;;;OUI;;1400;2100;3;Turquie;41.006381;28.9758715
+UZIEL;Ham;;M;1898;Salonique;Oui;Grce;Grecque;2;ENIO rue d'Auteuil ;;;OUI;;;;0;Grèce;47.6916697;-3.2331258
+VALENCI;Marie;Cohen;F;1915;Smyrne;Oui;Empire Ottoman;Turque;4;ENIO Jeunes Filles Versailles ;;OUI;;;9000;;1;Turquie;14.6118301;-61.0437439
+YUNGERMANN;Flore;;F;1892;Caffa;Oui;Empire Ottoman;Français;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;14000;2;Palestine;45.1604552;10.0099211
+YAHNI;Benjamin;;M;1898;Constantinople;Oui;Empire Ottoman;Français;4;ENIO rue d'Auteuil ;;;OUI;;9000;11000;1;Turquie;41.006381;28.9758715
+YENNI;David;;M;1893;Serrs;;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;1600;1800;1;Grèce;47.7106416;-76.8767215
+ZILBERSTEIN;Myriam;Dar;F;1899;Jrusalem;Oui;Empire Ottoman;Anglaise;4;Pension de Mme Isaac  Auteuil ;;OUI;;;1300;13000;5;Palestine;;
+ZACHARNI;Jacques;;M;1904;Andrinople;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;OUI;3600;;2;Turquie;43.3096979;5.4117413
+ZONANA;Salomon;;M;1885;Andrinople;Oui;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;;OUI;OUI;1400;2000;2;Turquie;43.3096979;5.4117413
+DANON;Marcelle;;F;1920;Damas;Oui;Syrie;Syrienne;3;;;;OUI;;9000;;1;Syrie;33.5130695;36.3095814
+MITRANI;Salomon;;M;1903;Kirkliss;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;3600;;1;Turquie;;
+GUERON;Marie;Altina;F;1912;Smyrne;Oui;Empire Ottoman;Turque;3;ENIO Jeunes Filles Versailles ;;;OUI;;9000;10000;3;Turquie;14.6118301;-61.0437439
+SEGALL;Rbecca;Confino;F;1888;Choumla;Oui;Bulgarie;Bulgare;;Pension de Mme Isaac  Auteuil ;;OUI;;;1300;14000;3;Bulgarie;;
+PANIGEL;Jacob;;M;1891;Jrusalem;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;OUI;;;1500;4400;4;Palestine;;
+SAPORTA;Rachel;Piza;F;1870;Andrinople;Oui;Empire Ottoman;Hollandais;2;Institut Bischoffsheim;OUI;;;;1200;2200;8;Turquie;43.3096979;5.4117413
+SASSON;David;;M;1887;Thran;Oui;Perse;Persane;4;ENIO rue d'Auteuil ;;OUI;;;1600;16000;7;Perse;35.6895744;51.3021561
+ABBOU;Fortune Zo;Mnass;F;1915;Constantinople;Oui;Empire Ottoman;Turque;3;ENIO Jeunes Filles Versailles ;;;OUI;;9000;;1;Turquie;41.006381;28.9758715
+ABBOU;Rebecca;Bensussan;F;1904;Andrinople;Oui;Empire Ottoman;Ottoman;;ENIO Jeunes Filles Versailles;;OUI;;;3600;9000;2;Turquie;43.3096979;5.4117413
+ABECASSIS;Orovida;;F;1892;Ttouan;Oui;Maroc;Marocaine;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;;1;Maroc;;
+ABENSOUR;Raphal;;M;1918;Fez;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;OUI;;OUI;8200;;2;Maroc;34.0346534;-5.0161926
+ABERBAUM;Hay;;F;1894;Safed;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;1;Palestine;32.9646301;35.502451
+ABI;Mose;;M;1887;Hamadan;Oui;Perse;Persane;4;ENIO rue d'Auteuil;;;;;1400;1000;2;Perse;34.9726302;48.6563818
+ABIB;Rachel;Haarcher;F;1877;Bayonne;;Français;Français;;Pension de Mme Isaac  Auteuil;;;OUI;;1500;14000;6;France;43.4945144;-1.4736657
+ABIB;F;;M;1868;Alger;;Algrie;Français;;ENIO rue des Rosiers;;OUI;;;1500;14000;5;Algérie;36.7729333;3.0588445
+ABITBOL;S;;M;;;;;;;;;;;;8000;;1;;;
+ABITBOL;Solange;;F;1914;Casablanca;Oui;Maroc;Marocaine;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;2;Maroc;33.5945144;-7.6200284
+ABITAN;Ruby;;F;1920;Casablanca;Oui;Maroc;Marocaine;2;ENIO Jeunes Filles Versailles;;;OUI;;8000;;1;Maroc;33.5945144;-7.6200284
+ABENIECHE;Samuel;;M;1915;Salonique;Oui;Grce;Hollandais;4;ENIO rue d'Auteuil;;OUI;;;9000;;1;Grèce;47.6916697;-3.2331258
+ABOUAF;Nathan;;M;1920;Smyrne;Oui;Turquie;Turque;3;ENIO rue d'Auteuil;;;OUI;OUI;9000;;1;Turquie;14.6118301;-61.0437439
+ABOUDARHAM;Isaac;;M;1861;Ttuan;Oui;Maroc;;;;OUI;;;;1200;1900;5;Maroc;;
+ABRAVANEL;Marie;Hakim;F;1913;Constantinople;Oui;Empire Ottoman;Turque;4;ENIO Jeunes Filles Versailles;;OUI;;;9000;10000;2;Turquie;41.006381;28.9758715
+ABRAVANEL;Ham;;M;1909;Tripoli;Oui;Lybie?;Italien;4;ENIO rue d'Auteuil;;;OUI;;3600;12000;3;Liban;32.896672;13.1777923
+ABRAHAM;Joseph;;M;1914;Alep;Oui;Empire Ottoman;Syrienne;4;ENIO rue d'Auteuil;;OUI;;;9000;10000;2;Syrie;36.19924;37.1637253
+ABRAMOFF;Ida;;F;1893;Varsovie;;Russie?;Russe;6;Pension de Mme Isaac  Auteuil; Institut Bischoffsheim;;;;;;;Russie;52.2333742;21.0711489
+ABRAVANEL;Jacques;;M;1888;Salonique;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;;OUI;;1600;;2;Grèce;47.6916697;-3.2331258
+ABREVAYA;Mose;;M;1886;Smyrne;Oui;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;;OUI;;1400;2700;3;Turquie;14.6118301;-61.0437439
+ABRAVANEL;Maurice;;M;1872;Constantinople;Oui;Empire Ottoman;Ottoman;;;;;;;1600;2400;2;Turquie;41.006381;28.9758715
+ABRAMOWITZ;Ida;;F;1865;Constantinople;Oui;Empire Ottoman;;;;OUI;;;;1200;1900;3;Turquie;41.006381;28.9758715
+ABREVAYA;Alice;Picciotto;F;1911;Alep;Oui;Empire Ottoman;Autrichienne;;Institut Bischoffsheim;;;OUI;;1400;1800;4;Syrie;36.19924;37.1637253
+ADES;Esther;Bornstein;F;1881;Paris;;Français;Français;;Institut Bischoffsheim;;;OUI;;1800;2150;2;France;48.8534951;2.3483915
+ALSAT;Rachel;Behar;F;1876;Constantinople;Oui;Empire Ottoman;Ottoman;;Institut Bischoffsheim;;;OUI;;1400;1700;2;Turquie;41.006381;28.9758715
+BAGDADI;Mathilde;Jacob;F;1864;Paris;;Français;Français;;Institut Bischoffsheim;OUI;;;;1600;2600;6;France;48.8534951;2.3483915
+BAKICH;Mose;;M;1890;Candie;;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;OUI;;;1400;;1;Grèce;48.4553703;-0.036062
+BALLOUL;Amlie;;F;1896;Andrinople;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;13000;3;Turquie;43.3096979;5.4117413
+BANDERLY;Michel;;M;1875;Caffa;Oui;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;;OUI;;1400;14000;6;Palestine;45.1604552;10.0099211
+BARISHAC;Isaac;;M;1892;Andrinople;Oui;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;;OUI;;1600;2000;3;Turquie;43.3096979;5.4117413
+BARISHAC;Victoria;;F;1906;Andrinople;Oui;Empire Ottoman;Ottoman;;Pension de Mme Weill-Kahn  Neuilly;;OUI;;;;;0;Turquie;43.3096979;5.4117413
+BARUCH;Mose;;M;1914;Tripoli;Oui;Lybie;;;ENIO rue d'Auteuil;;;OUI;;9000;10000;1;Liban;32.896672;13.1777923
+BARUCH;Lily;;F;1914;Constantinople;Oui;Empire Ottoman;;;;;OUI;;;9000;11000;4;Turquie;41.006381;28.9758715
+BARMAIMON;Isaac;;M;1917;Adin;Oui;Empire Ottoman;Ottoman;;;;;OUI;;9000;;2;Turquie;41.1948376;-120.9442258
+BARDASCH;Augusta;;F;1894;Safed;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;13000;4;Palestine;32.9646301;35.502451
+BARZILAØ;Ruth;;F;1912;Caffa;Oui;Empire Ottoman;;;ENIO Jeunes Filles Versailles;;OUI;;;9000;;3;Palestine;45.1604552;10.0099211
+BAROUCH;Sara;Lvy;F;1911;Safed;Oui;Empire Ottoman;;;;;OUI;;;9000;11000;5;Palestine;32.9646301;35.502451
+BAROUCH;Joseph;;M;1910;Andrinople;Oui;Empire Ottoman;;;ENIO rue d'Auteuil;;OUI;;;9000;11000;6;Turquie;43.3096979;5.4117413
+BENAROYA;Isral;;M;1912;Andrinople;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;;OUI;;1600;14000;6;Turquie;43.3096979;5.4117413
+BENAROYA;Fanny;Cohen;F;1885;Constantinople;Oui;Empire Ottoman;Ottoman;3;Pension de Mme Isaac  Auteuil;;;OUI;;2000;14000;6;Turquie;41.006381;28.9758715
+BENBASSAT;Elie;;M;1892;Andrinople;Oui;Empire Ottoman;Italien;3;ENIO rue d'Auteuil;;OUI;;OUI;1500;;2;Turquie;43.3096979;5.4117413
+BENOLIEL;Annette;;F;1867;Tanger;Oui;Maroc;Algérien;;Institut Bischoffsheim;;;;;1200;;1;Maroc;35.7696302;-5.8033522
+BENSIMHON;Joseph;;M;1873;Fez;Oui;Maroc;Marocaine;;ENIO rue d'Auteuil;;;OUI;;1400;5400;7;Maroc;34.0346534;-5.0161926
+BENEVISTE;Mose;;M;1879;Salonique;Oui;Empire Ottoman;;;;;OUI;;;1300;1500;3;Grèce;47.6916697;-3.2331258
+BENZAQUEN;Vida;Matalon;F;1863;Constantinople;Oui;Empire Ottoman;Turque;;Institut Bischoffsheim;;;;;1200;2300;6;Turquie;41.006381;28.9758715
+BENEVISTE;Matatias;;M;1868;Smyrne;Oui;Empire Ottoman;Ottoman;;ENIO rue des Rosiers;OUI;;;;1300;5900;10;Turquie;14.6118301;-61.0437439
+BENCHIMOL;Jacob;;M;1857;Ttuan;Oui;Maroc;;;ENIO rue des Singes ENIO RUE DES ROSIERS;OUI;;;;1200;1500;2;Maroc;;
+BENOSIGLIO;Elvire;;F;1893;Salonique;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;3400;1;Grèce;47.6916697;-3.2331258
+BENOLIEL;Salomon;;M;1882;Nemours;;Algrie;Français;;ENIO rue d'Auteuil;;;OUI;;1400;1600;2;Algérie;48.268026;2.6953079
+BENSABAT;Lion;;M;1878;Tanger;Oui;Maroc;;;ENIO rue d'Auteuil;;OUI;;;1300;1800;4;Maroc;35.7696302;-5.8033522
+BENRUBI;Esther;;F;1909;Salonique;Oui;Empire Ottoman;Hollandais;4;;;OUI;;;9000;;3;Grèce;47.6916697;-3.2331258
+BOUZAGLO;Virginie;Nahon;F;1887;Caffa;Oui;Empire Ottoman;Français;4;Institut Bischoffsheim;;OUI;;;1000;1600;3;Palestine;45.1604552;10.0099211
+BRASSEUR;Adolphe;;M;1878;Beyrouth;Oui;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;;OUI;OUI;1400;5400;5;Liban;33.8892265;35.5025585
+BLUM;Lucie;Cohn;F;1881;Paris;;Français;Français;;Institut Bischoffsheim;;;OUI;;1600;;1;France;48.8534951;2.3483915
+CABRANEL;Sarah;;F;1916;Smyrne;Oui;Empire Ottoman;Turque;;;;;OUI;;9000;10000;2;Turquie;14.6118301;-61.0437439
+CALMY;H;;M;1851;Bucarest;;Grande-Bulgarie;;;;;;;;1800;5400;3;Bulgarie;44.4361414;26.1027202
+CANETTI;Conorte;;F;1887;Andrinople;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;OUI;;;1300;5400;5;Turquie;43.3096979;5.4117413
+CARASSO;Samuel;;M;1889;Rhodes;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;;OUI;;1600;;1;Grèce;48.7584377;6.8985177
+CARMONA;Elie;;M;1859;Salonique;;Empire Ottoman;Hollandais;;ENIO rue des Rosiers;OUI;;;;1200;3000;14;Grèce;47.6916697;-3.2331258
+CARACO;Juliette;;F;1893;Brousse;Oui;Empire Ottoman;Ottoman;3;Pension de Mme Isaac  Auteuil;;;;;1300;;1;Turquie;45.6012286;3.4591515
+CARASSO;Adle;;F;1899;Cavalla;;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;1;Grèce;6.2582711;-7.8941274
+CARO;Stella;;F;1836;Livourne;;Italie;;;;;;;;4000;;1;Italie;42.7902379;10.3402239
+CASTRO;Lucie;Hazan;F;1883;Constantinople;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;2;Turquie;41.006381;28.9758715
+CASTIEL;Simon;;M;1888;Larache;Oui;Maroc;Marocaine;3;ENIO rue d'Auteuil;;OUI;;OUI;1500;1800;2;Maroc;35.1952327;-6.152913
+CAZES;Rachel;Santo;F;1863;Smyrne;Oui;Empire Ottoman;Ottoman;;;OUI;;;;1500;;2;Turquie;14.6118301;-61.0437439
+CAZES;Abraham;;M;1854;Ttuan;;Maroc;Marocaine;;ENIO rue des Singes;OUI;;;;2500;3200;5;Maroc;;
+COHEN;Heskel;;M;1873;Bagdad;Oui;Irak?;;;ENIO rue d'Auteuil;;;OUI;OUI;1400;1800;2;Irak;33.3061701;44.3872213
+COHEN;Rachel;;F;1893;Constantinople;Oui;Empire Ottoman;;3;Institut Bischoffsheim;;OUI;;;1300;13000;3;Turquie;41.006381;28.9758715
+COHEN;Victoria;Zagha;F;1912;Damas;Oui;Empire Ottoman;Syrienne;4;;;OUI;;;9000;10000;2;Syrie;33.5130695;36.3095814
+BASSAN;Berthe;COMMERTCHERO;F;1884;Andrinople;Oui;Empire Ottoman;Ottoman;2;Pension de Mme Isaac  Auteuil;;OUI;;;1300;2000;3;Turquie;43.3096979;5.4117413
+CONQUY;Joseph;;M;1870;Gibraltar;;Gibraltar;;;ENIO rue d'Auteuil;;;OUI;;1500;6600;3;Gibraltar;36.1285933;-5.3474761
+CONFINO;Albert;;M;1866;Carnabat;;Grande Bulgarie;;;;;;;;1400;16000;6;Turquie;;
+CORIAT;Hassiba;;F;1873;Ttuan;Oui;Maroc;Marocaine;;Institut Bischoffsheim;;;OUI;;1400;1500;1;Maroc;;
+COSEF;Jacques;;M;1892;Buzen;;Roumanie;Roumaine;4;ENIO rue d'Auteuil;;;OUI;;1600;2100;2;Roumanie;33.6114994;131.1304409
+CRESPINE;Rgine;;F;1888;Smyrne;Oui;Empire Ottoman;Italien;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;2;Turquie;14.6118301;-61.0437439
+CREHANGE;Cline;;F;1862;Vantoux;;Français;Français;;;OUI;;;;1500;1700;3;France;49.1305369;6.2313243
+LEVI;Sara;Cohen;F;1870;Constantinople;Oui;Empire Ottoman;Turque;;Pension de Mme Isaac  Auteuil;;;OUI;;1200;2500;6;Turquie;41.006381;28.9758715
+CARASSO;Mathilde;Naar;F;1891;Salonique;Oui;Empire Ottoman;Ottoman;4;Institut Bischoffsheim;;;OUI;;1400;1800;1;Grèce;47.6916697;-3.2331258
+DABBAH;Elie;;M;1879;Alep;Oui;Empire Ottoman;Ottoman;;;;;OUI;;1400;1800;2;Syrie;36.19924;37.1637253
+DAFFA;Joseph;;M;1859;Volo;;Grce;;;ENIO rue des Rosiers;OUI;;;;1500;2200;3;Grèce;42.3261332;-88.167861
+DAHAN;Isaac;;M;1916;Rabat;Oui;Maroc;Marocaine;3;ENIO rue d'Auteuil;;;OUI;OUI;9000;;1;Maroc;34.0218454;-6.8408929
+DALEM;Jeanne;;F;1880;Constantinople;Oui;Empire Ottoman;Ottoman;;Institut Bischoffsheim;;;OUI;;1400;;2;Turquie;41.006381;28.9758715
+DANON;Lonie;;F;1894;Bagdad;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;4400;3;Irak;33.3061701;44.3872213
+DANON;Raphal;;M;1885;Alexandria;;Roumanie;Roumaine;3;ENIO rue d'Auteuil;;OUI;;;1200;2600;4;Roumanie;44.8349534;8.7450304
+DAYAN;Salomon;;M;1912;Smyrne;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;9000;11000;2;Turquie;14.6118301;-61.0437439
+DAYAN;Salomon;;M;1893;Caffa;Oui;Empire Ottoman;Français;;;;OUI;;;1500;1700;1;Palestine;45.1604552;10.0099211
+DELMEDICO;Jacques;;M;1862;Constantinople;;Empire Ottoman;Ottoman;;ENIO rue des Rosiers;OUI;;;;2400;;1;Turquie;41.006381;28.9758715
+DJERASSI;Fortune;Rahmani;F;1913;Damas;Oui;Empire Ottoman;Persane;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;2;Syrie;33.5130695;36.3095814
+DJIVRE;Jacques;;M;1895;Andrinople;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;1600;3900;1;Turquie;43.3096979;5.4117413
+DJIVRE;Ham;;M;1895;Dmotica;Oui;Empire Ottoman;Français;;ENIO rue d'Auteuil;;OUI;;;1500;11000;5;Grèce;;
+DJIVRE;Sultana;Ovadia;F;1896;Andrinople;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;12000;5;Turquie;43.3096979;5.4117413
+DLIGATSCH;David;;M;1874;Moscou;;Russie;Russe;;;;;OUI;OUI;1400;1600;2;Russie;55.625578;37.6063916
+DOLLMANN;Lon;;M;1868;Andrinople;Oui;Empire Ottoman;;;ENIO rue des Rosiers;;;OUI;;1400;2800;3;Turquie;43.3096979;5.4117413
+DONIO;Elie;;M;1914;Smyrne;Oui;Empire Ottoman;Turque;4;ENIO rue d'Auteuil;;OUI;;;9000;10000;1;Turquie;14.6118301;-61.0437439
+DOUEGNAS;Victoria;;F;1903;Tyre;;Empire Ottoman;;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;1;Grèce;42.9911757;-76.8021781
+DOUEC;Abraham;;M;1878;Alep;Oui;Empire Ottoman;Turque;;ENIO rue d'Auteuil;;;OUI;OUI;1400;;2;Syrie;36.19924;37.1637253
+DUFOUR;Alice;;F;1875;Paris;;Français;Français;;Pension de Mme Weill-Kahn  Neuilly Institut Bischoffsheim;;;OUI;;1600;1900;3;France;48.8534951;2.3483915
+GOLDSTEIN;Alice;Durand;F;1887;Chateaudun du Rummel;;Algrie;Français;2;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;1;Algérie;;
+EDERY;Lucie;Ezknazi;F;1908;Andrinople;Oui;Empire Ottoman;Ottoman;4;ENIO Jeunes Filles Versailles Institut Bischoffsheim;;OUI;;;3600;11000;5;Turquie;43.3096979;5.4117413
+ELBAZ;Ison;;M;1919;Boujad;;Maroc;Marocaine;3;ENIO rue d'Auteuil;;;OUI;OUI;9000;;1;Maroc;32.769785;-6.394983
+ELIEZER;Nissim;;M;1887;Andrinople;Oui;Empire Ottoman;Turque;3;ENIO rue d'Auteuil;;;OUI;;1300;1700;1;Turquie;43.3096979;5.4117413
+ELIA;Leila;;F;1894;Damas;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;3900;1;Syrie;33.5130695;36.3095814
+BONDY;Pauline;Epstein;F;1864;Constantinople;Oui;Empire Ottoman;;;Institut Bischoffsheim;OUI;;;;1400;1800;3;Turquie;41.006381;28.9758715
+ELLAK;Ham;;M;1912;Safi;Oui;Maroc;Marocaine;3;ENIO rue d'Auteuil;;;OUI;;9000;;4;Maroc;32.2650776;-9.230554
+ELMALEH;Elie;;M;1908;Jrusalem;Oui;Empire Ottoman;Palestinienne;4;ENIO rue d'Auteuil;;;OUI;;9000;11000;4;Palestine;;
+ELMALEH;Esther;;F;1917;Casablanca;Oui;Maroc;Marocaine;4;;;;OUI;;9000;;1;Maroc;33.5945144;-7.6200284
+ELMALEH;Messody;Pariente;F;1877;Ttuan;Oui;Maroc;;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;5900;6;Maroc;;
+ELMALEH;Viva;Abitbol;F;1917;Mogador;Oui;Maroc;Marocaine;;;;;OUI;;9000;10000;1;Maroc;31.5118281;-9.7620903
+ENRIQUEZ;Edmond;;M;1887;Tunis;Oui;Tunisie;Français;3;ENIO rue d'Auteuil;;;OUI;;1400;1600;4;Tunisie;33.8439408;9.400138
+EPSTEIN;Anna;;F;1890;Jrusalem;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;1;Palestine;;
+SEGAL;Flora;Epstein;F;1888;Safed;Oui;Empire Ottoman;Autrichienne;4;Pension de Mme Isaac  Auteuil;;OUI;;;1200;;1;Palestine;32.9646301;35.502451
+ESKYA;Laura;;F;1914;Andrinople;Oui;Empire Ottoman;Turque;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;2;Turquie;43.3096979;5.4117413
+ESKENAZI;Rbecca;;F;1894;Constantinople;Oui;Empire Ottoman;Ottoman;3;Pension de Mme Isaac  Auteuil;;OUI;;;1300;3900;2;Turquie;41.006381;28.9758715
+ALBAGLI;Rachel;Faraggi;F;1887;Smyrne;Oui;Empire Ottoman;Ottoman;4;Institut Bischoffsheim;;;OUI;;1400;4900;1;Turquie;14.6118301;-61.0437439
+FARHI;Joseph D;;M;1878;Damas;Oui;Empire Ottoman;Ottoman;;;;;OUI;;1400;1800;3;Syrie;33.5130695;36.3095814
+FALCON;Nissim;;M;1878;Smyrne;Oui;Empire Ottoman;Français;;ENIO rue d'Auteuil;;OUI;;;1300;5400;11;Turquie;14.6118301;-61.0437439
+FALCON;Ccile;Haarscher;F;1875;Nantes;;Français;Français;;;;OUI;;;1400;2900;8;France;47.2186371;-1.5541362
+FARHI;Noury;;M;1892;Damas;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;OUI;;;1500;1900;2;Syrie;33.5130695;36.3095814
+FARHI;Sarah;;F;1883;Alep;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1500;2;Syrie;36.19924;37.1637253
+FARINE;Esther;;F;1884;Choumla;Oui;Bulgarie;Bulgare;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;4900;5;Bulgarie;;
+FARHI;Behor;;M;1871;Choumla;Oui;Bulgarie;Bulgare;;ENIO rue des Rosiers;;;OUI;;1400;;3;Bulgarie;;
+FARAGGI;Clarisse;;F;1891;Constantinople;Oui;Empire Ottoman;Ottoman;4;Institut Bischoffsheim;;OUI;;;1300;1700;1;Turquie;41.006381;28.9758715
+FARHI;Rosa;Farhi;F;1888;Damas;Oui;Empire Ottoman;Ottoman;3;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1500;2;Syrie;33.5130695;36.3095814
+FARHI;Isaac;;M;1871;Damas;Oui;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;OUI;;OUI;1200;14000;8;Syrie;33.5130695;36.3095814
+FARACHE;Elise;Catalan;F;1894;Kazanlik;;Empire Ottoman;Ottoman;4;Institut Bischoffsheim;;OUI;;;1300;13000;4;Bulgarie;42.6191296;25.3933333
+FARHI;Saydi;;F;1919;Izmir (Smyrne);Oui;Turquie;Turque;4;;;;OUI;;9000;;1;Turquie;39.1163327;27.1757207
+FELDMANN;Suzanne;;F;1918;Safed;Oui;Empire Ottoman;Palestinienne;4;;;;OUI;;9000;;1;Palestine;32.9646301;35.502451
+FINZI;Maurice;;M;1892;Tatar-Bazardjik;Oui;Bulgarie;;4;ENIO rue d'Auteuil;;OUI;;OUI;1500;;2;Bulgarie;;
+Français;Delphine;Bloch;F;1868;Hochfelden;;Français;Allemand;4;Institut Bischoffsheim;;;OUI;;1500;2800;10;France;48.7582999;7.5701101
+GAGUINE;Rgine;;F;1897;Magnsie;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;4400;2;Turquie;;
+GANON;Marie;Avigdor;F;1882;Andrinople;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;5400;8;Turquie;43.3096979;5.4117413
+GELBMANN;Hortense;;F;1861;Haguenau;;Français;Allemand;;;;;OUI;;3000;3900;2;France;48.8172236;7.7885978
+GERSON;;Bacsi;F;1866;Choumla;;Grande Bulgarie;Français;;Institut Bischoffsheim;;;;;1200;1600;2;Bulgarie;;
+GERSON;Mose;;M;1864;Salonique;Oui;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;OUI;;;1000;2000;2;Grèce;47.6916697;-3.2331258
+GOLDMANN;Rbecca;;F;1915;Kalisz;;Pologne;Polonais;;;;OUI;;;9000;10000;1;Pologne;51.7624752;18.0895358
+GOLDENBERG;Alfred;;M;1907;Or-Yehouda;;Empire Ottoman;Roumaine;4;ENIO rue d'Auteuil;;;OUI;;9000;12000;4;Palestine;;
+GOLFAND;Abraham;;M;1888;Ekaterinoslaw;;Russie;Russe;4;Institut agronomique;;;;;1600;6400;2;Russie;;
+GOLDMANN;Marcus;;M;1893;Rosch Pina;;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;OUI;;;1500;;1;Palestine;32.968215;35.5438245
+GOMEL;Benjamin;;M;1912;Magnsie;Oui;Empire Ottoman;Turque;4;ENIO rue d'Auteuil;;;OUI;;9000;10000;2;Turquie;;
+GOMEL;Marie;;F;1916;Smyrne;Oui;Empire Ottoman;Ottoman;3;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;2;Turquie;14.6118301;-61.0437439
+GOURLAND;Mry;Pisa;F;1884;Constantinople;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil ;;;OUI;;1400;14000;7;Turquie;41.006381;28.9758715
+GOUREVITZ;Lazare;;M;1915;Odessa;;Russie;Palestinienne;4;Tel-Aviv;;OUI;;;9000;;1;Russie;46.4843023;30.7322878
+GOURDJI;Lonore;;F;1876;Constantinople;Oui;Empire Ottoman;Turque;;Institut Bischoffsheim;;OUI;;;1300;1800;5;Turquie;41.006381;28.9758715
+SOUESSIA;St;Garzon;F;1887;Ttuan;Oui;Maroc;Marocaine;3;Institut Bischoffsheim;;;;;1000;;3;Maroc;;
+BITTON;Rgine;Hasson;F;1915;Tel-Aviv;;Palestine;Palestinienne;3;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;3;Palestine;32.0852997;34.7818064
+BENSOUSSAN;Sophie;Halphon;F;1907;Andrinople;Oui;Empire Ottoman;Ottoman;4;;;;;;9000;;4;Turquie;43.3096979;5.4117413
+GROSSMANN;Bellina;Haker;F;1869;Constantinople;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;5900;2;Turquie;41.006381;28.9758715
+HASSON;Isaac;;M;1887;Andrinople;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;;OUI;;1600;2300;6;Turquie;43.3096979;5.4117413
+HASSON;Julia;;F;1886;Constantinople;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;;OUI;;;;2;Turquie;41.006381;28.9758715
+SORIANO;Rachel;Hasson;F;1886;Constantinople;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;5400;3;Turquie;41.006381;28.9758715
+HASSON;Marie;;F;1897;Rhodes;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;3900;2;Grèce;48.7584377;6.8985177
+HASSON;Rose;;F;1897;Le Caire;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;1;Egypte;44.370353;6.0608068
+HATCHUEL;Sol;;F;1897;Caffa;Oui;Empire Ottoman;Français;4;Pension de Mme Isaac  Auteuil;;;;;1400;;1;Palestine;45.1604552;10.0099211
+HABIF;Samuel;;M;1895;Andrinople;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;;OUI;OUI;1600;1800;1;Turquie;43.3096979;5.4117413
+HACHUEL;Estrella;;F;1885;Ttuan;Oui;Maroc;Marocaine;;Institut Bischoffsheim;;OUI;;;1300;2100;4;Maroc;;
+HADJEZ;Daniel;;M;1914;Smyrne;Oui;Empire Ottoman;Turque;4;ENIO rue d'Auteuil;;;;OUI;9000;10000;2;Turquie;14.6118301;-61.0437439
+HANAN;Elizer;;M;1891;Rhodes;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;;OUI;;1600;;2;Grèce;48.7584377;6.8985177
+HAZAN;Isaac;;M;1882;Tripoli;Oui;Lybie;Italien;4;ENIO rue d'Auteuil;;;OUI;OUI;1400;;2;Liban;32.896672;13.1777923
+HIRSCH;Samuel;;M;1843;Dieuze;;Français;Français;;Ecole Normale de Colmar;OUI;;;;2500;6000;3;France;48.8104847;6.7179948
+IBENSAL;Isaac;;M;1865;Constantinople;Oui;Empire Ottoman;Ottoman;;;;OUI;;;600;2000;5;Turquie;41.006381;28.9758715
+IFRAH;Elie;;M;1913;Casablanca;Oui;Maroc;Français;4;ENIO rue d'Auteuil;;OUI;;;9000;10000;3;Maroc;33.5945144;-7.6200284
+ISRAEL;Sarah;;F;1917;Ttuan;Oui;Maroc;Marocaine;4;;;;OUI;;9000;;1;Maroc;;
+ISRAEL;Matica;Abravanel;F;1905;Salonique;Oui;Empire Ottoman;Grecque;4;Institut Bischoffsheim;;OUI;;;3600;11000;4;Grèce;47.6916697;-3.2331258
+ITTAH;Mose;;M;1892;Caffa;Oui;Empire Ottoman;Marocaine;3;ENIO rue d'Auteuil;;OUI;;;1500;2200;2;Palestine;45.1604552;10.0099211
+JGER;Nathan;;M;1881;Botosani;;Roumanie;Roumaine;;ENIO rue d'Auteuil;;;OUI;OUI;;;1;Roumanie;47.8528263;26.759334
+JAPHET;Emmanuel;;M;1874;Constantinople;Oui;Empire Ottoman;Russe;;ENIO rue d'Auteuil;;;OUI;OUI;1400;1500;2;Turquie;41.006381;28.9758715
+JEJATI;Slim (Simon);;M;1915;Damas;Oui;Empire Ottoman;Syrienne;4;ENIO rue d'Auteuil;;;OUI;;9000;10000;2;Syrie;33.5130695;36.3095814
+JODICE;Herminie;;F;1864;Paris;;Français;Français;;Ecole de Mlle Masson  Paris;OUI;;;;1500;;1;France;48.8534951;2.3483915
+JONAS;Penina;;F;1884;Moscou;;Russie;Ottoman;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1600;4;Russie;55.625578;37.6063916
+ALBALA;Marie;Khiat;F;1877;Tunis;Oui;Tunisie;Français;;Pension de Mme Isaac  Auteuil ;;;;;1200;5900;5;Tunisie;33.8439408;9.400138
+BENAROYA;Blanche;Kahn;F;1892;Sarregmines;;Allemagne;Allemand;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1900;2;Allemagne;;
+KABILI;Jacques;;M;1888;Larisse;Oui;Empire Ottoman;;3;ENIO rue d'Auteuil;;;OUI;;1300;;1;Grèce;-8.2051288;-34.9195317
+KAHANOFF;Elie;;M;1882;Jrusalem;Oui;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;;OUI;OUI;1400;14000;10;Palestine;;
+KAHANSKY;Ida;;F;1912;Kiev;;Russie;Russe;;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;3;Russie;50.4500336;30.5241361
+KAMINITZ;Pauline;;F;1896;Lublin;;Pologne;Russe;5;Pension de Mme Isaac  Auteuil;;OUI;;;1300;3900;1;Pologne;51.2181945;22.5546776
+KNAFO;Isaac D;;M;1910;Mogador;Oui;Maroc;Marocaine;3;ENIO rue d'Auteuil;;OUI;;;9000;;1;Maroc;31.5118281;-9.7620903
+KNAFO;Joseph;;M;1882;Mogador;Oui;Maroc;Marocaine;;ENIO rue d'Auteuil;;OUI;;;1300;2300;4;Maroc;31.5118281;-9.7620903
+KRIPPE;Emilie;;F;1874;Karkow;;Russie;Russe;;;;;;;1200;;2;Russie;-27.6622445;-54.4374142
+DAYAN;S;Lerman;F;1909;Beyrouth;Oui;Empire Ottoman;;4;Institut Bischoffsheim;;OUI;;;3600;11000;3;Liban;33.8892265;35.5025585
+GRAUER;Rachel;Lvy;F;1892;Constantinople;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1800;2;Turquie;41.006381;28.9758715
+HAYON;Elise;Lvy;F;1882;La Fert sous Jouarre;Oui;Français;Français;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1800;6;France;;
+LABI;Rgine;;F;1882;Tripoli;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1700;2;Liban;32.896672;13.1777923
+LAHANA;Joseph;;M;1881;Smyrne;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;1400;2850;3;Turquie;14.6118301;-61.0437439
+LAREDO;Mose;;M;1893;Tibriade;Oui;Empire Ottoman;Marocaine;;;;;OUI;;1600;14000;5;Palestine;;
+LAZARE;Sigismond;;M;1899;San Français;;Etats-Unis;Italien;3;ENIO rue d'Auteuil;;OUI;;;1500;3600;1;Etats-Unis;41.8995875;12.4745426
+LAZARE;Albert;;M;1890;Ispahan;Oui;Iran;Persane;4;ENIO rue d'Auteuil;;OUI;;;1400;10000;4;Perse;32.6707877;51.6650002
+LEIBOVICI;Marcu;;M;1887;Folticeni;;Roumanie;Roumaine;3;ENIO rue d'Auteuil;;;OUI;;1600;;3;Roumanie;;
+LEON;Estrella;;F;1898;Rhodes;;Empire Ottoman;Italien;3;Pension de Mme Weill-Kahn  Neuilly;;OUI;;;3600;;1;Grèce;48.7584377;6.8985177
+LERNER;Daniel;;M;1896;Caffa;Oui;Empire Ottoman;Ottoman;;ENIO rue d'Auteuil;;OUI;;;3600;12000;4;Palestine;45.1604552;10.0099211
+LERNER;Flicie;Behar;F;1898;Philippopolis;Oui;Bulgarie;Bulgare;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;13000;3;Bulgarie;42.1418541;24.7499297
+LEVINE;Sonia;;F;1917;Thran;Oui;Iran;Palestinienne;;;;;OUI;;9000;10000;1;Perse;35.6895744;51.3021561
+LEVY;Marco;;M;1886;Carnabat;;Bulgarie;Bulgare;3;ENIO rue d'Auteuil;;;OUI;;1600;2200;4;Turquie;;
+LEVY;Stella;;F;1890;Roustchouk;Oui;Empire Ottoman;Bulgare;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;1500;2;Bulgarie;;
+LOUPO;Samuel;;M;1859;Roustchouk;Oui;Empire Ottoman;Ottoman;;ENIO rue des Rosiers;OUI;;;;1800;7000;4;Bulgarie;;
+ALMALEH;Lina;Messulam;F;1912;Andrinople;Oui;Empire Ottoman;Ottoman;;;;OUI;;;9000;;3;Turquie;43.3096979;5.4117413
+ASTRUC;Esther;Marcovitch;F;1878;Philippopolis;Oui;Empire Ottoman;Ottoman;;Institut Bischoffsheim;;;OUI;;1400;2400;4;Bulgarie;42.1418541;24.7499297
+BENSAHEL;Myriam;Mamane;F;1913;Safed;Oui;Empire Ottoman;Algérien;;ENIO Jeunes Filles Versailles;;OUI;;;9000;10000;2;Palestine;32.9646301;35.502451
+MALKI;Rene;Matalon;F;1904;Alep;Oui;Empire Ottoman;Ottoman;2;Institut Bischoffsheim;;OUI;;;3600;10000;3;Syrie;36.19924;37.1637253
+MALKI;Nissim;;M;1902;Andrinople;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;OUI;;;3600;10000;3;Turquie;43.3096979;5.4117413
+MAMANE;Mose;;M;1915;Safed;Oui;Empire Ottoman;Français;4;ENIO rue d'Auteuil;;;OUI;;9000;;2;Palestine;32.9646301;35.502451
+MARGOSCHES;Fanny;;F;1873;Constantinople;Oui;Empire Ottoman;;;Institut Bischoffsheim;;;OUI;;1400;1500;2;Turquie;41.006381;28.9758715
+MASLIAH;Rbecca;;F;1884;Magnsie;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;5400;5;Turquie;;
+MATALON;Joseph;;M;1856;Constantinople;Oui;Empire Ottoman;Français;;ENIO rue des Singes;OUI;;;;2000;4500;5;Turquie;41.006381;28.9758715
+MEFANO;Robert Samuel;;M;1905;Andrinople;Oui;Empire Ottoman;Français;3;ENIO rue d'Auteuil;;OUI;;;3400;12000;4;Turquie;43.3096979;5.4117413
+MENASSE;Marie;;F;1887;Constantinople;Oui;Empire Ottoman;Ottoman;;Institut Bischoffsheim;;OUI;;;1300;;1;Turquie;41.006381;28.9758715
+MENDA;Ezra;;M;1903;Andrinople;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;;OUI;OUI;3600;12000;3;Turquie;43.3096979;5.4117413
+MESSERI;Reina;;F;1908;Tibriade;Oui;Empire Ottoman;Algérien;4;;;OUI;;;9000;11000;1;Palestine;;
+MOGRABI;David;;M;1881;Damas;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;1400;;2;Syrie;33.5130695;36.3095814
+NEHAMA;Joseph;;M;1880;Salonique;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil ;;OUI;;;1200;6000;2;Grèce;47.6916697;-3.2331258
+NIDDAM;Matatia;;M;1892;Fez;Oui;Maroc;Allemand;4;ENIO rue d'Auteuil;;;OUI;OUI;1600;;1;Maroc;34.0346534;-5.0161926
+NIGO;La;Mitrani;F;1867;Andrinople;Oui;Empire Ottoman;;;Institut Bischoffsheim;OUI;;;;1200;1400;2;Turquie;43.3096979;5.4117413
+NIGRINE;Nissim;;M;1892;Prveza;;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil ;;;OUI;OUI;1800;;2;Grèce;;
+NINIO;Nomi;Shohet;F;1912;Bagdad;Oui;Iraq;Iraquienne;;ENIO Jeunes Filles Versailles;;OUI;;;9000;;3;Irak;33.3061701;44.3872213
+NAHON;Lon;;M;1894;Ttuan;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;;OUI;OUI;1600;;1;Maroc;;
+NAAR;Julie;;F;1890;Constantinople;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;;1;Turquie;41.006381;28.9758715
+NABON;David;;M;1858;Andrinople;Oui;Empire Ottoman;Ottoman;;ENIO rue des Rosiers;OUI;;;;1200;6600;6;Turquie;43.3096979;5.4117413
+NAHOUM;Kethy;Pontremoli;F;1907;Smyrne;Oui;Empire Ottoman;Grecque;3;Institut Bischoffsheim;;;OUI;;3600;12000;3;Turquie;14.6118301;-61.0437439
+NAHMIAS;Ernestine;;F;1892;Salonique;Oui;Empire Ottoman;Ottoman;3;Pension de Mme Isaac  Auteuil;;;OUI;;1400;13000;2;Grèce;47.6916697;-3.2331258
+ASSOULINE;Esther;Oiroir;F;1911;Damas;Oui;Empire Ottoman;Syrienne;;;;OUI;;;9000;;2;Syrie;33.5130695;36.3095814
+OBADIA;Elie;;M;1918;Fez;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;;OUI;;8800;;2;Maroc;34.0346534;-5.0161926
+OHANA;Bension;;M;1916;Safi;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;;OUI;OUI;9000;;1;Maroc;32.2650776;-9.230554
+OSSOVETZKY;Acher;;M;1869;Kiev;;Russie;;;ENIO rue d'Auteuil;;;OUI;;1400;;1;Russie;50.4500336;30.5241361
+OVADIA;Rene;;F;1896;Bagdad;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;2;Irak;33.3061701;44.3872213
+BEHMOIRAS;Henriette;Palacci;F;1913;Smyrne;Oui;Empire Ottoman;Turque;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;10000;1;Turquie;14.6118301;-61.0437439
+Français;Lucie;Perahia;F;1916;Salonique;Oui;Empire Ottoman;Grecque;;;;;OUI;;9000;;1;Grèce;47.6916697;-3.2331258
+PAGGI;Clothilde;;F;1892;Alexandrie;Oui;Egypte;Italien;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;1;Egypte;44.8349534;8.7450304
+PANIGEL;Louise;Aboulafia;F;1893;Beyrouth;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;4400;2;Liban;33.8892265;35.5025585
+PAPPO;Victoria;;F;1895;Andrinople;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;;2;Turquie;43.3096979;5.4117413
+PARIENTE;Semtob;;M;1849;Ttuan;;Maroc;Français;;;OUI;;;;2500;7000;5;Maroc;;
+PAVES;Simon;;M;1889;Bucarest;;Roumanie;Roumaine;3;ENIO rue d'Auteuil;;;OUI;;1600;;1;Bulgarie;44.4361414;26.1027202
+PELOSOF;Isaac;;M;1855;Larisse;;Grce;;;ENIO rue d'Auteuil;OUI;;;;2500;3000;1;Grèce;-8.2051288;-34.9195317
+PENSO;Elie;;M;1892;Damas;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;;OUI;OUI;1600;14000;5;Syrie;33.5130695;36.3095814
+PEREZ;Jacques;;M;1911;Salonique;Oui;Grce;Grecque;4;ENIO rue d'Auteuil;;;OUI;;9000;11000;2;Grèce;47.6916697;-3.2331258
+PILOSOPH;Joseph;;M;1896;Andrinople;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;1600;;1;Turquie;43.3096979;5.4117413
+PIMIENTA;Abraham;;M;1860;Tanger;Oui;Maroc;;;;;;;;1200;1400;2;Maroc;35.7696302;-5.8033522
+PINTO;Lon;;M;1911;Rabat;Oui;Maroc;Marocaine;3;ENIO rue d'Auteuil;;OUI;;;9000;10000;3;Maroc;34.0218454;-6.8408929
+POLICAR;La;;F;1891;Brousse;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;4900;4;Turquie;45.6012286;3.4591515
+PESSO;Rachel;Menda;F;1898;Andrinople;Oui;Empire Ottoman;Ottoman;5;Institut Bischoffsheim;;OUI;;;1300;11000;4;Turquie;43.3096979;5.4117413
+COHEN;Sarah;Romy;F;1893;Dardanelles;Oui;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;OUI;;;1300;14000;6;Turquie;40.2091725;26.4413908
+RABINOVITCH;Elsa;;F;1916;Port Sad;;Egypte;Egyptienne;;ENIO Jeunes Filles Versailles;;;OUI;;9000;;2;Egypte;35.2044968;-99.307306
+RODRIGUEZ;Jacques;;M;1912;Andrinople;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;9000;10000;3;Turquie;43.3096979;5.4117413
+RODRIGUES;Mose;;M;1891;Andrinople;Oui;Empire Ottoman;Turque;;ENIO rue d'Auteuil;;OUI;;;1500;1700;3;Turquie;43.3096979;5.4117413
+ROMANO;Lon;;M;1907;Andrinople;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;;OUI;;3400;;1;Turquie;43.3096979;5.4117413
+ROMANOFF;Sebatia;Sasoon;F;1866;Alep;Oui;Empire Ottoman;Ottoman;;Institut Bischoffsheim;;;;;1200;2700;5;Syrie;36.19924;37.1637253
+ROSENTHAL;Benjamin;;M;1916;Le Caire;;Egypte;Palestinienne;4;ENIO rue d'Auteuil;;;OUI;;9000;;1;Egypte;44.370353;6.0608068
+ROSSANO;Rbecca;;F;1890;Constantinople;Oui;Empire Ottoman;Ottoman;2;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1800;2;Turquie;41.006381;28.9758715
+ROSENBAUM;Ephram;;M;1885;Odessa;;Russie;Turque;;ENIO rue d'Auteuil;;;OUI;;1400;4900;6;Russie;46.4843023;30.7322878
+ROUSSO;Suzette;;F;1918;Izmir;Oui;Empire Ottoman;Turque;3;;;;OUI;;9000;;1;Turquie;38.23166;27.02997
+SABAN;Rgine;;F;;Constantinople;;Empire Ottoman;Ottoman;;Pension de Mme Isaac  Auteuil;;;;;1400;1700;2;Turquie;41.006381;28.9758715
+SEMACH;Sultana;;F;1891;Andrinople;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;;OUI;;1400;4400;3;Turquie;43.3096979;5.4117413
+SHEBABO;Lili;Angel;F;1914;Salonique;Oui;Grce;Grecque;;;;;OUI;;9000;10000;2;Grèce;47.6916697;-3.2331258
+SIDI;Maurice;;M;1883;Tatar-Bazardjik;Oui;Bulgarie;Bulgare;;ENIO rue d'Auteuil;;;OUI;OUI;1400;14000;8;Bulgarie;;
+SARFATI;Nissim;;M;1913;Andrinople;Oui;Empire Ottoman;Ottoman;3;ENIO rue d'Auteuil;;OUI;;;9000;10000;4;Turquie;43.3096979;5.4117413
+ALCHALEL;Mathilde;Twersky;F;1867;Kowno;;Russie;Français;;Ecole Svign  Paris;;OUI;;;1400;2800;4;Russie;54.8982139;23.9044817
+ESKENAZI;La;Tovi;F;1909;Andrinople;Oui;Empire Ottoman;Ottoman;3;;;OUI;;;9000;;4;Turquie;43.3096979;5.4117413
+MAMANE;Adle;Toldano;F;1914;Tibriade;Oui;Empire Ottoman;Français;4;ENIO Jeunes Filles Versailles;;;OUI;;9000;;2;Palestine;;
+TABOH;Allegra;;F;1897;Salonique;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;;OUI;;3600;13000;2;Grèce;47.6916697;-3.2331258
+TADJOURI;Benjamin;;M;1906;Tripoli;;Lybie;Italien;3;ENIO rue d'Auteuil;;;OUI;;3400;12000;3;Liban;32.896672;13.1777923
+TADJOURI;Ruben;;M;1895;Tripoli;;Lybie;Italien;4;ENIO rue d'Auteuil;;;OUI;;1600;13000;3;Liban;32.896672;13.1777923
+TAHAR;Joseph;;M;1890;Sousse;Oui;Tunisie;Tunisien;3;ENIO rue d'Auteuil;;OUI;;OUI;1500;14000;3;Tunisie;35.8288284;10.6405254
+TAOUREL;Lon;;M;1865;Ttuan;Oui;Maroc ;Français;;ENIO rue des Rosiers;OUI;;;;1200;5900;6;Maroc ;;
+TARRAB;Fortune;;F;1909;Beyrouth;Oui;Empire Ottoman;Syrienne;4;;;OUI;;;9000;11000;2;Liban;33.8892265;35.5025585
+TERMIN;Rbecca;;F;1892;Constantinople;Oui;Empire Ottoman;Ottoman;4;Pension de Mme Isaac  Auteuil;;OUI;;;1300;13000;7;Turquie;41.006381;28.9758715
+TESSLER;Anna;;F;1919;Safed;Oui;Palestine;Libanaise;4;;;;;;8200;;1;Palestine;32.9646301;35.502451
+TOBIE;Israel;;M;1882;Cachan;;Français;Persane;3;ENIO rue d'Auteuil;;OUI;;OUI;1500;1700;3;France;48.7945413;2.3340758
+TOLEDO;Fortune;;F;1913;Andrinople;Oui;Empire Ottoman;Ottoman;3;ENIO Jeunes Filles Versailles;;;;;9000;;1;Turquie;43.3096979;5.4117413
+TOLEDANO;Stella;;F;1896;Tanger;Oui;Maroc;Marocaine;3;"Pension de Mme Weill-Kahn  Neuilly; Pension de Mme Isaac  Auteuil";;;OUI;;1400;13000;5;Maroc;35.7696302;-5.8033522
+TRIGODA;Shulamith;;F;1917;Jrusalem;Oui;Empire Ottoman;Palestinienne;;;;;OUI;;9000;;1;Palestine;31.765541488579164;35.21092708389721
+UNGAR;Sara;;F;1849;Bonn;;Allemagne;Allemand;;;;;OUI;;2000;3500;3;Allemagne;50.7352621;7.1024635
+SCHOUKER;Alice;Veneziani;F;1883;Constantinople;Oui;Empire Ottoman;Italien;;Pension de Mme Isaac  Auteuil;;;OUI;;1400;1500;2;Turquie;41.006381;28.9758715
+VENTURA;Sara;Sidi;F;1867;Smyrne;Oui;Empire Ottoman;Espagnole;;Institut Bischoffsheim;OUI;;;;1200;14000;7;Turquie;14.6118301;-61.0437439
+VICTORIAS;Julie;;F;1893;Constantinople;Oui;Empire Ottoman;Ottoman;4;Institut Bischoffsheim;;OUI;;;1300;4400;2;Turquie;41.006381;28.9758715
+WEISSMANN;Hlne;Salzer;F;1857;Constantinople;Oui;Empire Ottoman;Autrichienne;;Institut Bischoffsheim;OUI;;;;1500;3000;4;Turquie;41.006381;28.9758715
+WITTEMBERG;Ida;;F;1869;Kherson;;;;;;;;OUI;;1500;2400;3;Ukraine;46.5421715;33.4079326
+YAHNI;Henriette;Rabinovitch;F;1910;Port Sad;;Egypte;Français;3;ENIO Jeunes Filles Versailles;;OUI;;;9000;11000;1;Egypte;35.2044968;-99.307306
+YOEL;Elza;;F;1896;Salonique;Oui;Empire Ottoman;Ottoman;3;Pension de Mme Weill-Kahn  Neuilly Pension de Mme Isaac  Auteuil;;;OUI;;1400;3900;2;Grèce;47.6916697;-3.2331258
+ZAFrançais;Jacques;;M;1889;Mogador;Oui;Maroc;Marocaine;4;ENIO rue d'Auteuil;;OUI;;;1500;1700;1;Maroc;31.5118281;-9.7620903
+ZECHARIA;Menahem;;M;1892;Andrinople;Oui;Empire Ottoman;Ottoman;4;ENIO rue d'Auteuil;;;OUI;;1600;12000;5;Turquie;43.3096979;5.4117413
