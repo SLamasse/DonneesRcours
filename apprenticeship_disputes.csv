@@ -6364,7 +6364,7 @@ ID,number.of.petition,catalogue..order.number,forename.of.apprentice,surname.of.
 14069.0,144.0,68,John,Woolby,William,Gent,,Brough,LIN,D,William,Ryley,C,Grocer,,,,28-Nov-1655,7,Woollen draper,E,11-Apr-1659,WL,MK,,,D,E,woollen draper,1_Habillement_Textile
 3123.0,165.0,94,Richard,Cotton,Richard,Yeoman,,Haridon,NTH,D,Lancelot,Chapman,C,Woodmonger,,,,16-Apr-1661,7,,E,29-Aug-1664,WL,MK,,,D,E,UNKNOWN,15_Non_Classifie
 3389.0,273.0,267,John,Curtis,Richard,,,Pepper,OXF,,William,Wilks,C,Cutler,,,,9-Jan-1695,7,Sawyer,E,24-May-1698,WL,MK,,,D,E,sawyer,11_Bois_Meubles
-4715.0,268.0,93,Nathaniel,Freeman,Richard,Tobacconist,,Stepney,MDX,,John,Freeman,C,Glover,,,,27-Aug-1688,7,Tobacconist,e,10-Jan-1692,4D,NF,,,D,e,tobacco,2_Alimentation_Boissons
+4715.0,268.0,93,Nathaniel,Freeman,Richard,Tobacconist,,Stepney,MDX,,John,Freeman,C,Glover,,,,27-Aug-1688,7,Tobacconist,E,10-Jan-1692,4D,NF,,,D,e,tobacco,2_Alimentation_Boissons
 8164.0,185.0,222,Robert,Mannell,Ralph,Gunsmith,,Dorchester,DOR,D,Isaac,Wincoll,C,Dyer,,,,16-Oct-1665,7,Dyer,E,28-Feb-1669,ND,NF,,,D,E,,15_Non_Classifie
 8190.0,311.0,106,Henry,Mapp,Henry,Poulterer,,Stepney,MDX,,John,Peacock,C,Salter,,,,25-Feb-1714,7,Sail maker,C,10-Jul-1717,4D,NF,CK,,D,C,sail,7_Transport_Navig
 8270.0,72.0,125,Joseph,Marshall,John,Bricklayer,,Bletsoe,BED,,Thomas,Bassett,C,Carpenter,,,,23-Jun-1629,7,Carpenter,E,5-Nov-1632,WL,MK,,,D,E,carpenter,4_Batiment_Construction
@@ -6733,7 +6733,7 @@ ID,number.of.petition,catalogue..order.number,forename.of.apprentice,surname.of.
 11387.0,48.0,79,William,Sipthorpe,Robert,Clerk,,North Cadbury,SOM,,John,Mewe,C,Grocer,,,,22-Feb-1614,9,Grocer,E,28-Aug-1617,WL,MK,,,D,E,,15_Non_Classifie
 13164.0,217.0,131,Charles,Ware,Charles,Carpenter,C,London,LND,,Robert,Ward,C,Haberdasher,,,,6-Feb-1673,7,,E,12-Aug-1676,WL,MK,,,D,E,UNKNOWN,15_Non_Classifie
 416.0,91.0,90,John,Atkinson,Charles,Yeoman,,Beck,YKS,,John,Cooke,C,Vintner,,,,7-Dec-1631,8,Vintner,E,13-Jun-1635,WL,NF,CM,,D,E,vintner,2_Alimentation_Boissons
-3062.0,268.0,254,Joseph,Cope,Arthur,Gunner,,Deptford,KEN,,John,Pight,C,Pewterer,,,,22-Mar-1693,7,Haberdasher,p,26-Sep-1696,WL,MK,,,D,p,haberdasher,1_Habillement_Textile
+3062.0,268.0,254,Joseph,Cope,Arthur,Gunner,,Deptford,KEN,,John,Pight,C,Pewterer,,,,22-Mar-1693,7,Haberdasher,P,26-Sep-1696,WL,MK,,,D,p,haberdasher,1_Habillement_Textile
 4010.0,317.0,119,Thomas,Eason,John,Mariner,,St Paul Shadwell,MDX,,Samuel,Higgs,C,Baker,,,,1-Nov-1714,7,Baker,E,8-May-1718,WL,MK,,,D,E,baker,2_Alimentation_Boissons
 6833.0,224.0,287,John,Illbary,Richard,Husbandman,,Blewbery,BRK,,John,Bennett,C,Salter,,,,22-Dec-1674,7,Mealman,E,28-Jun-1678,WL,MK,,,D,E,mealman,2_Alimentation_Boissons
 6848.0,98.0,102,Dorothy,Ingram,John,,,Poplar,MDX,D,Thomas,Smith,C,Saddler,,& Anne his wife,,11-May-1635,8,Button maker,E,15-Nov-1638,WL,MK,,,D,E,button,1_Habillement_Textile
